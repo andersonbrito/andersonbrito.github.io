@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anderson Brito"
+title                    : "Personal Webpage"
 title_separator          : "-"
 name                     : "Anderson Brito"
 description              : "Research & Github Projects"
@@ -90,7 +90,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Personal Webpage"
+  name             : "Anderson Brito"
   avatar           : "/assets/images/anderson.jpg"
   bio              : "Bioinformatician | Virologist | Evolutionary Biologist.
   Currently I'm a PhD Student at Imperial College London."
@@ -113,14 +113,14 @@ author:
   linkedin         : "anderson-brito-544b38154"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # "123456/username" (the last part of your profile url, e.g. https://stackoverflow.com/users/123456/username)
-  steam            : # "steamId" (the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
+  stackoverflow    : 
+  steam            : 
   tumblr           :
   twitter          : "AndersonBrito_"
   vine             :
   weibo            :
   xing             :
-  youtube          : # "https://youtube.com/c/MichaelRoseDesign"
+  youtube          : 
 
 
 # Reading Files
