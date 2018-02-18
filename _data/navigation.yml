@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-     url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Research"
     url: /_pages/Research/
   - title: "Publications"
