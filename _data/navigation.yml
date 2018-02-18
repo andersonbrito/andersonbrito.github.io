@@ -5,11 +5,11 @@ main:
   - title: "About"
      url: https://mmistakes.github.io/minimal-mistakes/about/
   - title: "Research"
-	url: /_pages/Research/
+    url: /_pages/Research/
   - title: "Publications"
-	url: /_pages/Publications/
+    url: /_pages/Publications/
   - title: "Volunteering"
-	url: /_pages/Volunteering/
+    url: /_pages/Volunteering/
 
 # - title: "Sample Posts"
     # url: /year-archive/
