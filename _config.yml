@@ -9,10 +9,10 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Site Title"
+title                    : "Anderson Brito"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Anderson Brito"
+description              : "Research & Github Projects"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -95,7 +95,7 @@ author:
   bio              : "Bioinformatician | Virologist | Evolutionary Biologist. I'm a PhD Student at Imperial College London."
   location         : "London, United Kingdom"
   email            : "andersonfbrito@gmail.com"
-  uri              : 
+  uri              : "http://www.imperial.ac.uk/people/anderson.brito14"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
