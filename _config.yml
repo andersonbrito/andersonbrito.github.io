@@ -91,7 +91,7 @@ analytics:
 # Site Author
 author:
   name             : "Anderson Brito"
-  avatar           : "/assets/images/anderson.jpg"
+  avatar           : "/assets/images/anderson.png"
   bio              : "Bioinformatician | Virologist | Evolutionary Biologist.\n
   Currently I'm a PhD Student at Imperial College London"
   location         : "London, UK"
