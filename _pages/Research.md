@@ -6,7 +6,7 @@ date: 2018-02-21T14:48:30-04:00
 header:
   #overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/Escher.png
+  overlay_image: /assets/images/goodsell_virology.jpg
   #cta_label: "Download"
   #cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
