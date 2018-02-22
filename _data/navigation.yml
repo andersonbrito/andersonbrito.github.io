@@ -3,17 +3,10 @@ main:
   - title: "Home"
     url: /
   - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
+    url: /_pages/About/
   - title: "Research"
     url: /_pages/Research/
   - title: "Publications"
     url: /_pages/Publications/
   - title: "Activities"
     url: /_pages/Activities/
-
-# - title: "Sample Posts"
-    # url: /year-archive/
-  # - title: "Sample Collections"
-    # url: /collection-archive/
-  # - title: "Sitemap"
-    # url: /sitemap/
