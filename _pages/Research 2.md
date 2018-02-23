@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
 
 intro: 
-  - excerpt: 'I'm a biologist applying and developing computational tools to study molecular evolution. I hold a BSc degree in Biological Sciences from the University of Brasília (UnB), and a MSc in Microbiology from the University of São Paulo (USP), Brazil. Currently I'm a last year PhD student in Computational Biology, based in the Theoretical Systems Biology Group at Imperial College London. My Bioinformatics research focuses on multiple aspects of Molecular Evolution, integrating Phylogenetics, Genomics and Protein structure data to better understand the evolution of pathogens from a systemic perpective.'
+  - excerpt: 'I am a biologist applying and developing computational tools to study molecular evolution. I hold a BSc degree in Biological Sciences from the University of Brasília (UnB), and a MSc in Microbiology from the University of São Paulo (USP), Brazil. Currently I am a last year PhD student in Computational Biology, based in the Theoretical Systems Biology Group at Imperial College London. My Bioinformatics research focuses on multiple aspects of Molecular Evolution, integrating Phylogenetics, Genomics and Protein structure data to better understand the evolution of pathogens from a systemic perpective.'
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.jpg
