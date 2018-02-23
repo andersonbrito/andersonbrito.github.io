@@ -2,17 +2,17 @@
 title: "Activities"
 layout: splash
 permalink: /_pages/Activities/
-date: 2018-02-21T14:48:30-04:00
+date: 2016-03-23T11:48:41-04:00
 header:
+  overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/goodsell-virologyN.jpg
+#  cta_label: "Download"
+#  cta_url: "https://github.com/mmistakes/minimal-mistakes/"
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
-
+#excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
   - excerpt: 'Besides my research, I have been involved in a series of outreach activities and volunteering work.'
-  
----
-{% include feature_row id="intro" type="center" %}
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.jpg
@@ -71,8 +71,6 @@ feature_row7:
 
 {% include feature_row id="intro" type="center" %}
 
-#{% include feature_row %}
-
 {% include feature_row id="feature_row2" type="left" %}
 
 {% include feature_row id="feature_row3" type="right" %}
@@ -80,3 +78,7 @@ feature_row7:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
+
+{% include feature_row id="feature_row7" type="right" %}
