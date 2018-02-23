@@ -9,7 +9,7 @@ minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : ""
 title_separator          : "-"
 name                     : "Anderson Brito"
 description              : "Research & Github Projects"

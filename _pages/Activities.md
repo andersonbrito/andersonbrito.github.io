@@ -5,11 +5,12 @@ permalink: /_pages/Activities/
 date: 2018-02-21T14:48:30-04:00
 header:
   overlay_filter: "0.5"
-  overlay_image: /assets/images/goodsell_virology.jpg
+  overlay_image: /assets/images/goodsell-virologyN.jpg
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
 
 intro: 
-  - excerpt: 'Besides my research, I've been involved in a series of outreach activities and volunteering work.'
+  - excerpt: 'Besides my research, I have been involved in a series of outreach activities and volunteering work.'
+  
 ---
 {% include feature_row id="intro" type="center" %}
 
@@ -66,3 +67,16 @@ feature_row7:
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
+---
+
+{% include feature_row id="intro" type="center" %}
+
+#{% include feature_row %}
+
+{% include feature_row id="feature_row2" type="left" %}
+
+{% include feature_row id="feature_row3" type="right" %}
+
+{% include feature_row id="feature_row4" type="left" %}
+
+{% include feature_row id="feature_row5" type="right" %}
