@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [**Unsplash**](https://unsplash.com)"
 excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
+  - excerpt: 'I'm a biologist applying and developing computational tools to study molecular evolution. I hold a BSc degree in Biological Sciences from the University of Brasília (UnB), and a MSc in Microbiology from the University of São Paulo (USP), Brazil. Currently I'm a last year PhD student in Computational Biology, based in the Theoretical Systems Biology Group at Imperial College London. My Bioinformatics research focuses on multiple aspects of Molecular Evolution, integrating Phylogenetics, Genomics and Protein structure data to better understand the evolution of pathogens from a systemic perpective.'
 
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
