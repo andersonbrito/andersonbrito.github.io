@@ -9,8 +9,7 @@ header:
   overlay_image: /assets/images/goodsell-virologyN.jpg
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
 intro: 
-  - excerpt: 'Find below details about my main research interests:
-  Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
+  - excerpt: 'Find below details about my main research interests:<br/>Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
 
 #feature_row:
 #  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
@@ -39,7 +38,7 @@ feature_row2:
     
 feature_row3:
   - image_path: /assets/images/Lorem-Ipsum.jpg
-    title: "Virology;"
+    title: "Virology"
     alt: "Placeholder Image Right Aligned"
     excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
     url: "/_pages/Publications/"
