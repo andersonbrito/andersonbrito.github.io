@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.jpg
     title: "ABEP-UK"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'In 2016-2017 I was the Executive Director of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a UK based association founded in 1980, with headquarters in London. Its mission is to promote networking and represent Brazilian Students and Researchers in the UK. During my period at ABEP-UK I presented the institution and its members in oficial ocasions, and organized networking events, as the ABEP-UK's Annual Conference, an international event that congregates members of the association to discuss relevant researches developed by fellow Brazilians abroad.'
+    excerpt: 'In 2016-2017 I was the Executive Director of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a UK based association founded in 1980, with headquarters in London. Its mission is to promote networking and represent Brazilian Students and Researchers in the UK. During my period at ABEP-UK I have presented the institution and its members in oficial ocasions, and organized networking events, as the ABEP-UK`s Annual Conference, an international event that congregates members of the association to discuss relevant researches developed by fellow Brazilians abroad.'
     url: "https://abep.org.uk"
     btn_label: "Read More"
     btn_class: "btn--inverse"
