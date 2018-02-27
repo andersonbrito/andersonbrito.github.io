@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.jpg
     title: "ABEP-UK"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'In 2016-2017 I was the Executive Director of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led UK based organization founded in 1980, with headquarters in London. Its mission is to promote networking and represent Brazilian Students and Researchers in the UK. During my period at ABEP-UK I have presented the institution and its members in oficial ocasions, and organized networking events, as the ABEP-UK`s Annual Conference, an international event that congregates members of the association to discuss relevant researches developed by fellow Brazilians abroad.'
+    excerpt: 'In 2016-2017 I was the Executive Director of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led UK based organization founded in 1980, with headquarters in London. Its mission is to promote networking and represent Brazilian Students and Researchers in the UK. During my period at ABEP-UK I represented the institution and its members in oficial occasions, and organized networking events, as the ABEP-UK\`s Annual Conference, an international event that congregates members of the association to discuss relevant researches developed by fellow Brazilians abroad.'
     url: "https://abep.org.uk"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -27,7 +27,7 @@ feature_row3:
   - image_path: /assets/images/Lorem-Ipsum.jpg
     title: "Latin American Society at Imperial College London"
     alt: "Placeholder Image Right Aligned"
-    excerpt: 'In 2016-2017 I was the Vice-President of the Imperial College Latin American Society (Lat-Imperial), a student-led association of Latin American students at Imperial. It acts as a liaison the students and the Imperial College Administration, and plays an important role connecting students and academic staff, as well as promoting the Latin American Culture at the university. As a committee member I promoted jointly with my collegues a series of social meetings, informal talks, dance classes, and in 2018 we had a chance to organize the 1st Symposium \'Researchers for Latin America\', an initiative that congregated leading Latin American researchers as students in the UK.'
+    excerpt: 'In 2016-2017 I was the Vice-President of the Imperial College Latin American Society (Lat-Imperial), a student-led association of Latin American students at Imperial. It acts as a liaison the students and the Imperial College Administration, and plays an important role connecting students and academic staff, as well as promoting the Latin American Culture at the university. As a committee member I promoted jointly with my collegues a series of social meetings, informal talks, dance classes, and in 2018 we had a chance to organize the 1st Symposium \`Researchers for Latin America\`, an initiative that congregated leading Latin American researchers as students in the UK.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
