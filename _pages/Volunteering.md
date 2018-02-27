@@ -18,8 +18,8 @@ feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.jpg
     title: "ABEP-UK"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
-    url: "/_pages/Publications/"
+    excerpt: 'In 2016-2017 I was the Executive Director of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a UK based association founded in 1980, with headquarters in London. Its mission is to promote networking and represent Brazilian Students and Researchers in the UK. During my period at ABEP-UK I presented the institution and its members in oficial ocasions, and organized networking events, as the ABEP-UK's Annual Conference, an international event that congregates members of the association to discuss relevant researches developed by fellow Brazilians abroad.'
+    url: "https://abep.org.uk"
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
@@ -59,14 +59,6 @@ feature_row6:
     btn_label: "Read More"
     btn_class: "btn--inverse"
 
-feature_row7:
-  - image_path: /assets/images/Lorem-Ipsum.jpg
-    title: "Graphic Design"
-    alt: "Placeholder Image Right Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
-    url: "/_pages/Publications/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
 ---
 
 {% include feature_row id="intro" type="center" %}
@@ -81,4 +73,3 @@ feature_row7:
 
 {% include feature_row id="feature_row6" type="left" %}
 
-{% include feature_row id="feature_row7" type="right" %}
