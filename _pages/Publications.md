@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/articles.png
 
 intro: 
-  - excerpt: 'List of published papers.'
+  - excerpt: 'List of published papers and preprints.'
 
 
 #feature_row:
