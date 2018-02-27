@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/goodsell-virologyN.jpg
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
 intro: 
-  - excerpt: 'Find below details about my main research interests:<br/>Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
+  - excerpt: 'Find below details about my main research interests, among which are: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
 
 #feature_row:
 #  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
