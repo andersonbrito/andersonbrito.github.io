@@ -12,7 +12,7 @@ header:
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
 #excerpt: "Bacon ipsum dolor sit amet salami ham hock ham, hamburger corned beef short ribs kielbasa biltong t-bone drumstick tri-tip tail sirloin pork chop."
 intro: 
-  - excerpt: 'Besides my research, I have been involved in a series of outreach activities and volunteering work.'
+  - excerpt: 'Besides my research, I have been involved in the following volunteering activities.'
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.png
@@ -36,7 +36,7 @@ feature_row4:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "Imperial College Brazil Forum"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Since 2017 I'm a student representative at the Imperial College Brazil Forum, a network of Brazilian Academics, Students and Allumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers interested on Brazil. As a student representative I could organize events on interest to PhD students no only at Imperial, but from other universities in London.'
+    excerpt: 'Since 2017 I am a student representative at the Imperial College Brazil Forum, a network of Brazilian Academics, Students and Allumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers interested on Brazil. As a student representative I could organize events on interest to PhD students no only at Imperial, but from other universities in London.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -44,7 +44,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "Native Scientist"
-    alt: "I'm an active volunteer at Native Scientists, a NGO that promotes Science and Language learning to kids from migrant communities in Europe. Among the aims of NS are (1) to inspire ethnic minority pupils to pursue higher education and consider STEM careers; (2) to empower international scientists to increase the impact of their research; and (3) to build a community of advocates for diversity and equality in education and the workforce. I first joined NS as a volunteer in 2017.'
+    alt: "I am an active volunteer at Native Scientists, a NGO that promotes Science and Language learning to kids from migrant communities in Europe. Among the aims of NS are (1) to inspire ethnic minority pupils to pursue higher education and consider STEM careers; (2) to empower international scientists to increase the impact of their research; and (3) to build a community of advocates for diversity and equality in education and the workforce. I first joined NS as a volunteer in 2017.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
