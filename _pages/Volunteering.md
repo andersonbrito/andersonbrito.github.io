@@ -18,7 +18,7 @@ feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "ABEP-UK"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'I was the Executive Director 2016-2017 of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led UK based organization founded in 1980. Its mission is to represent and promote networking among Brazilian Students and Researchers in the UK. During my period at ABEP-UK I represented the institution and its members in oficial occasions at embassies and academic institutions, and organized networking events and an International conference congregating members of the association to discuss relevant researches developed by Brazilians abroad.'
+    excerpt: 'I was the Executive Director 2016-2017 of the ABEP-UK (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led organization that acts nationwide in the UK since in 1980. Its mission is to represent and connect Brazilian Students and Researchers. At ABEP-UK I had a chance to represent its members in oficial occasions at embassies and academic institutions, and organized an International scientific conference congregating members of the association in 2017.'
     url: "https://abep.org.uk"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -27,7 +27,7 @@ feature_row3:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "Latin American Society at Imperial College London"
     alt: "Placeholder Image Right Aligned"
-    excerpt: 'In 2016-2017 I was the Vice-President of the Imperial College Latin American Society (Lat-Imperial), a student-led association of Latin American students at Imperial. It acts as a liaison the students and the Imperial College Administration, and plays an important role connecting students and academic staff, as well as promoting the Latin American Culture at the university. As a committee member I promoted jointly with my collegues a series of social meetings, informal talks, dance classes, and in 2018 we had a chance to organize the 1st Symposium \`Researchers for Latin America\`, an initiative that congregated leading Latin American researchers as students in the UK.'
+    excerpt: 'In 2016-2017 I was the Vice-President of the Imperial College Latin American Society (Lat-Imperial), a student-led association of Latin Americans at Imperial. It acts as a liaison between students and the Imperial College Administration, it plays an important role connecting students and academic staff, and promotes the Latin American Culture at Imperial. As a committee member I organized jointly with my collegues a series of social meetings, informal talks, and a symposium with leading Latin American researchers as students in the UK.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -36,7 +36,7 @@ feature_row4:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "Imperial College Brazil Forum"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
+    excerpt: 'Since 2017 I'm a student representative at the Imperial College Brazil Forum, a network of Brazilian Academics, Students and Allumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers interested on Brazil. As a student representative I could organize events on interest to PhD students no only at Imperial, but from other universities in London.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -44,17 +44,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "Native Scientist"
-    alt: "Placeholder Image Right Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
-    url: "/_pages/Publications/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-
-feature_row6:
-  - image_path: /assets/images/Lorem-Ipsum.png
-    title: "PubhD"
-    alt: "Placeholder Image Left Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
+    alt: "I'm an active volunteer at Native Scientists, a NGO that promotes Science and Language learning to kids from migrant communities in Europe. Among the aims of NS are (1) to inspire ethnic minority pupils to pursue higher education and consider STEM careers; (2) to empower international scientists to increase the impact of their research; and (3) to build a community of advocates for diversity and equality in education and the workforce. I first joined NS as a volunteer in 2017.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -70,6 +60,4 @@ feature_row6:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
-
-{% include feature_row id="feature_row6" type="left" %}
 
