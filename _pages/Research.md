@@ -28,7 +28,7 @@ intro:
 #    excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 feature_row2:
-  - image_path: /assets/images/Lorem-Ipsum.jpg
+  - image_path: /assets/images/Lorem-Ipsum.png
     title: "Bioinformatics"
     alt: "Placeholder Image Left Aligned"
     excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
@@ -37,7 +37,7 @@ feature_row2:
     btn_class: "btn--inverse"
     
 feature_row3:
-  - image_path: /assets/images/Lorem-Ipsum.jpg
+  - image_path: /assets/images/Lorem-Ipsum.png
     title: "Virology"
     alt: "Placeholder Image Right Aligned"
     excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
@@ -46,7 +46,7 @@ feature_row3:
     btn_class: "btn--inverse"
     
 feature_row4:
-  - image_path: /assets/images/Lorem-Ipsum.jpg
+  - image_path: /assets/images/Lorem-Ipsum.png
     title: "Molecular Evolution"
     alt: "Placeholder Image Left Aligned"
     excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
@@ -55,7 +55,7 @@ feature_row4:
     btn_class: "btn--inverse"
 
 feature_row5:
-  - image_path: /assets/images/Lorem-Ipsum.jpg
+  - image_path: /assets/images/Lorem-Ipsum.png
     title: "Genomics"
     alt: "Placeholder Image Left Aligned"
     excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
@@ -64,7 +64,7 @@ feature_row5:
     btn_class: "btn--inverse"
 
 feature_row6:
-  - image_path: /assets/images/Lorem-Ipsum.jpg
+  - image_path: /assets/images/Lorem-Ipsum.png
     title: "Structural Biology"
     alt: "Placeholder Image Left Aligned"
     excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
