@@ -44,7 +44,7 @@ feature_row4:
 feature_row5:
   - image_path: /assets/images/Lorem-Ipsum.png
     title: "Native Scientist"
-    alt: "I am an active volunteer at Native Scientists, a NGO that promotes Science and Language learning to kids from migrant communities in Europe. Among the aims of NS are (1) to inspire ethnic minority pupils to pursue higher education and consider STEM careers; (2) to empower international scientists to increase the impact of their research; and (3) to build a community of advocates for diversity and equality in education and the workforce. I first joined NS as a volunteer in 2017.'
+    alt: 'I am an active volunteer at Native Scientists, a NGO that promotes Science and Language learning to kids from migrant communities in Europe. Among the aims of NS are (1) to inspire ethnic minority pupils to pursue higher education and consider STEM careers; (2) to empower international scientists to increase the impact of their research; and (3) to build a community of advocates for diversity and equality in education and the workforce. I first joined NS as a volunteer in 2017.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
