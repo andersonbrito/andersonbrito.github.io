@@ -2,12 +2,12 @@
 title: "Volunteering"
 layout: splash
 permalink: /_pages/Volunteering/
-date: 2017-02-23T11:48:41-04:00
+date: 2018-02-23T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/goodsell-virologyN.jpg
-  caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
+  overlay_image: /assets/images/volunteering.png
+  caption: "Photo credit: [Logo templates](https://www.freepik.com/free-vectors/logo-templates)"
 
 intro: 
   - excerpt: 'Besides my research, I have been involved in a series of volunteering activities: political, cultural, social and scientific.'
