@@ -43,8 +43,18 @@ feature_row4:
 
 feature_row5:
   - image_path: /assets/images/Lorem-Ipsum.png
-    title: "Native Scientist"
-    alt: 'I am an active volunteer at Native Scientists, a NGO that promotes Science and Language learning to kids from migrant communities in Europe. Among the aims of NS are (1) to inspire ethnic minority pupils to pursue higher education and consider STEM careers; (2) to empower international scientists to increase the impact of their research; and (3) to build a community of advocates for diversity and equality in education and the workforce. I first joined NS as a volunteer in 2017.'
+    title: "Toastmasters International"
+    alt: "Placeholder Image Right Aligned"
+    excerpt: 'I am a member of Toastmasters International, an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice the speaking skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers from multiple ages, genders, nationalities and cultural backgrounds.'
+    url: "/_pages/Publications/"
+    btn_label: "Read More"
+    btn_class: "btn--inverse"
+
+feature_row6:
+  - image_path: /assets/images/Lorem-Ipsum.png
+    title: "Outreach"
+    alt: "Placeholder Image Left Aligned"
+    excerpt: 'I have been involved in Science Communication activities both to kids and adults. As a volunteer at Native Scientists, the focus is to teach Science to kids from migrant communitiesto, in order to inspire ethnic minority pupils to pursue higher education. I also took part in informal sessions but as a speaker and regular participant at PubhD, an initiave that provides PhD students an opportunity to talk about their research in an informal atmosphere, for a diverse audience.'
     url: "/_pages/Publications/"
     btn_label: "Read More"
     btn_class: "btn--inverse"
@@ -60,4 +70,6 @@ feature_row5:
 {% include feature_row id="feature_row4" type="left" %}
 
 {% include feature_row id="feature_row5" type="right" %}
+
+{% include feature_row id="feature_row6" type="left" %}
 
