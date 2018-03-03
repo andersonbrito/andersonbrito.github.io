@@ -7,7 +7,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/volunteering.png
-  caption: "Photo credit: [Logo templates](https://www.freepik.com/free-vectors/logo-templates)"
+  caption: "Photo credit: [fanjianhua](https://www.freepik.com/fanjianhua)"
 
 intro: 
   - excerpt: 'Besides my research, I have been involved in a series of volunteering activities of political, cultural, social and scientific natures.'
