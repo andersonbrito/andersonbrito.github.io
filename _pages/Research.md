@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/research.png
   caption: "Photo credit: [kjpargeter](https://www.freepik.com/kjpargeter)"
 intro: 
-  - excerpt: 'Find below more about research interests, which include: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
+  - excerpt: 'Find below more about my research interests, which include: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
 
 feature_row2:
   - image_path: /assets/images/bioinformatics.png

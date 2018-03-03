@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [Logo templates](https://www.freepik.com/free-vectors/logo-templates)"
 
 intro: 
-  - excerpt: 'Besides my research, I have been involved in a series of volunteering activities: political, cultural, social and scientific.'
+  - excerpt: 'Besides my research, I have been involved in a series of volunteering activities of political, cultural, social and scientific natures.'
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.png
