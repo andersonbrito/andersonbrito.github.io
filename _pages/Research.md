@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/goodsell-virologyN.jpg
   caption: "Photo credit: [kjpargeter](https://www.freepik.com/kjpargeter)"
 intro: 
-  - excerpt: 'Find below details about my main research interests, among which are: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
+  - excerpt: 'Find below more about research interests, which include: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
 
 feature_row2:
   - image_path: /assets/images/bioinformatics.png
