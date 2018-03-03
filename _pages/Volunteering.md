@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
 
 intro: 
-  - excerpt: 'Besides my research, I have been involved in the following volunteering activities.'
+  - excerpt: 'Besides my research, I have been involved in a series of volunteering activities: political, cultural, social and scientific.'
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.png

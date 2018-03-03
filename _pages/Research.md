@@ -6,7 +6,7 @@ date: 2017-03-03T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/goodsell-virologyN.jpg
+  overlay_image: /assets/images/research.png
   caption: "Photo credit: [kjpargeter](https://www.freepik.com/kjpargeter)"
 intro: 
   - excerpt: 'Find below more about research interests, which include: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
