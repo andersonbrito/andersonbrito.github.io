@@ -2,12 +2,12 @@
 title: "Research"
 layout: splash
 permalink: /_pages/Research/
-date: 2016-03-23T11:48:41-04:00
+date: 2017-03-03T11:48:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/goodsell-virologyN.jpg
-  caption: "Photo credit: [David S. Goodsell](http://mgl.scripps.edu/people/goodsell/)"
+  caption: "Photo credit: [kjpargeter](https://www.freepik.com/kjpargeter)"
 intro: 
   - excerpt: 'Find below details about my main research interests, among which are: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
 
