@@ -15,7 +15,7 @@ feature_row2:
   - image_path: /assets/images/bioinformatics.png
     title: "Bioinformatics"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
+    excerpt: 'By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic data and phylogenetic trees.'
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -24,7 +24,7 @@ feature_row3:
   - image_path: /assets/images/virology.png
     title: "Virology"
     alt: "Placeholder Image Right Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
+    excerpt: ''
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
