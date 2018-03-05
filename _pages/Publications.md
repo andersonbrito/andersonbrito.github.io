@@ -13,8 +13,6 @@ intro:
 ---
 {% include feature_row id="intro" type="center" %}
 
-## Articles
-
 **2018**
 * **Brito AF**; Melo, FL; Ardisson-Araújo DMP; Sihler W; Souza ML;
 Ribeiro BM. [Genome-wide diversity in temporal and regional populations of the betabaculovirus Erinnyis ello granulovirus (ErelGV)](https://www.biorxiv.org/content/early/2018/02/28/273672). _bioRxiv Preprint_ 2018.

@@ -15,7 +15,7 @@ feature_row2:
   - image_path: /assets/images/bioinformatics.png
     title: "Bioinformatics"
     alt: "Bioinformatics"
-    excerpt: "By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic data and phylogenetic trees."
+    excerpt: "By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (mainly in Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic and phylogenetic information."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -33,7 +33,7 @@ feature_row4:
   - image_path: /assets/images/phylogenetics.png
     title: "Phylogenetics and Molecular Evolution"
     alt: "Phylogenetics and Molecular Evolution"
-    excerpt: "By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliation (co-phylogenetic analysis); and reconstruct ancestral sequences."
+    excerpt: "By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliations (co-phylogenetic analysis); and reconstruct ancestral sequences."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -42,7 +42,7 @@ feature_row5:
   - image_path: /assets/images/genomics.png
     title: "Genomics"
     alt: "Genomics"
-    excerpt: "As the sequencing costs drop, the amount of data a sequecing project produces requires a combination of multiple approaches to provide meaning to the fragments of DNA/RNA sequences. Among such approaches are sequence alignment and assembly, comparative genomics, annotation and data visualization. Throughout my MSc research I was in charge of a high-throughput sequencing project generating 17 distinct genomes of a large dsDNA virus species (baculovirus, ~130,000 bp each). I carried out the experiments and performed the genome assemblies, annotations and further analyses."
+    excerpt: "As the sequencing costs drop, the amount of data of a sequecing project  requires a combination of multiple approaches to provide meaning to the fragments of DNA/RNA sequences. Among such approaches are sequence alignment and assembly, comparative genomics, annotation and data visualization. Throughout my MSc research I was in charge of a high-throughput sequencing project generating 17 distinct genomes of a large dsDNA virus species (baculovirus, ~130,000 bp each). I carried out the experiments and performed the genome assemblies, annotations and further analyses."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
