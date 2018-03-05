@@ -10,50 +10,21 @@ header:
 
 intro: 
   - excerpt: 'List of published papers and preprints.'
-
-
-#feature_row:
-#  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-#    alt: "placeholder image 1"
-#    title: "Placeholder 1"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Placeholder 2"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
-#  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-#    title: "Placeholder 3"
-#    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-#
-#feature_row2:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Placeholder Image Left Aligned"
-#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
-#
-#feature_row3:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Placeholder Image Right Aligned"
-#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
-#
-#feature_row4:
-#  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-#    alt: "placeholder image 2"
-#    title: "Placeholder Image Center Aligned"
-#    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`'
-#    url: "#test-link"
-#    btn_label: "Read More"
-#    btn_class: "btn--primary"
 ---
 
-{% include feature_row id="intro" type="center" %}
+## Articles
+
+**2018**
+* Brito, A. F.; Melo, F. L.; Ardisson-Araújo, D. M. P.; Sihler, W.; Souza, M. L.;
+Ribeiro, B. M. [Genome-wide diversity in temporal and regional populations of the betabaculovirus Erinnyis ello granulovirus (ErelGV)](https://www.biorxiv.org/content/early/2018/02/28/273672). _bioRxiv Preprint_ 2018.
+
+**2017**
+* **Brito AF** and Pinney JW. [Protein–Protein Interactions in Virus–Host Systems](http://journal.frontiersin.org/article/10.3389/fmicb.2017.01557/full). _Frontier in Microbiology_ 2017. 8:1557.
+
+**2016**
+Brito AF, Braconi CT, Weidmann M, Dilcher M, Alves JM, Gruber A, de Andrade Zanotto PM. [The pangenome of the Anticarsia gemmatalis multiple nucleopolyhedrovirus (AgMNPV)](http://gbe.oxfordjournals.org/content/8/1/94.short). _Genome biology and evolution_. 2016 Jan 1;8(1):94-108.
+
+**2013**
+Villabona-Arenas CJ, Brito AF, de Andrade Zanotto PM. [Genomic mosaicism in two strains of dengue virus type 3](http://www.sciencedirect.com/science/article/pii/S1567134813002013). _Infection, Genetics and Evolution_. 2013 Aug 31;18:202-12.
+
+Oliveira JV, Brito AF, Braconi CT, de Melo Freire CC, Iamarino A, de Andrade Zanotto PM. [Modularity and evolutionary constraints in a baculovirus gene regulatory network](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-87). _BMC systems biology_. 2013 Sep 4;7(1):87.
