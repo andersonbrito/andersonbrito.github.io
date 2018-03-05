@@ -15,7 +15,7 @@ feature_row2:
   - image_path: /assets/images/bioinformatics.png
     title: "Bioinformatics"
     alt: "Bioinformatics"
-    excerpt: 'By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic data and phylogenetic trees.'
+    excerpt: "By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic data and phylogenetic trees."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -24,7 +24,7 @@ feature_row3:
   - image_path: /assets/images/virology.png
     title: "Virology"
     alt: "Virology"
-#    excerpt: 'Despite their small size and apparent simplicity, as pathogenic agents viruses cause major impacts on human health, agriculture and livestock. Almost 100 different viral families have been discovered so far, each of them showing particular biological features: genetic material, genome size, host range, etc. Before Bioinformatics, came Virology: I have experience on cell culture, viral amplification, and viral DNA extraction and analysis. I have been studying viruses over the past nine years, especially those of the families Baculoviridae, Herpesviridae and Flaviviridae.'
+    excerpt: "Despite their small size and apparent simplicity, as pathogenic agents viruses cause major impacts on human health, agriculture and livestock. Almost 100 different viral families have been discovered so far, each of them showing particular biological features: genetic material, genome size, host range, etc. Before Bioinformatics, came Virology: I have experience on cell culture, viral amplification, and viral DNA extraction and analysis. I have been studying viruses over the past nine years, especially those of the families Baculoviridae, Herpesviridae and Flaviviridae."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -33,7 +33,7 @@ feature_row4:
   - image_path: /assets/images/phylogenetics.png
     title: "Phylogenetics and Molecular Evolution"
     alt: "Phylogenetics and Molecular Evolution"
-#    excerpt: 'By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliation (co-phylogenetic analysis); and reconstruct ancestral sequences'.
+    excerpt: "By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliation (co-phylogenetic analysis); and reconstruct ancestral sequences."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
