@@ -24,19 +24,19 @@ feature_row3:
   - image_path: /assets/images/virology.png
     title: "Virology"
     alt: "Placeholder Image Right Aligned"
-    excerpt: ''
+    excerpt: 'Despite their small size and apparent simplicity, as pathogenic agents viruses cause major impacts on human health, agriculture and livestock. Almost 100 different viral families have been discovered so far, each of them showing particular biological features: genetic material, genome size, host range, etc. Before Bioinformatics, came Virology: I have experience on cell culture, viral amplification, and viral DNA extraction and analysis. I have been studying viruses over the past nine years, especially those of the families Baculoviridae, Herpesviridae and Flaviviridae.'
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
     
 feature_row4:
   - image_path: /assets/images/phylogenetics.png
-    title: "Phylogenetics"
+    title: "Phylogenetics and Molecular Evolution"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
-    url: "/_pages/Publications/"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
+    excerpt: 'By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliation (co-phylogenetic analysis); and reconstruct ancestral sequences.
+#    url: "/_pages/Publications/"
+#    btn_label: "Read More"
+#    btn_class: "btn--inverse"
 
 feature_row5:
   - image_path: /assets/images/genomics.png
