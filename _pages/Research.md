@@ -42,7 +42,7 @@ feature_row5:
   - image_path: /assets/images/genomics.png
     title: "Genomics"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'Phasellus tempor quam nec ligula mattis, id imperdiet mi sagittis. Proin nec mauris vel velit pretium blandit eu sit amet sapien. Proin eu turpis quis sapien tempus scelerisque sit amet nec enim. Vestibulum efficitur ullamcorper augue eleifend tincidunt. Fusce porttitor diam porta enim laoreet molestie cursus non dolor. Praesent at porta leo, a accumsan lorem. Donec sollicitudin, dui ut rhoncus sodales, magna augue mollis libero, et ullamcorper nibh sem sed ante. Nulla egestas, ex pellentesque scelerisque luctus, nulla lectus dapibus turpis, at rhoncus nunc massa sed est. Vivamus gravida nisi eget enim finibus fringilla. Curabitur pellentesque ut lectus sed iaculis.'
+    excerpt: 'As the sequencing costs drop, the amount of data a sequecing project produces requires a combination of multiple approaches to provide meaning to the fragments of DNA/RNA produced. Among such approaches there are sequence aligment and assembly, comparative genomics, annotation and data visualization. Throughout my MSc research I was in charge of a high-throughput sequencing project generating 17 distinct genomes of a large dsDNA virus species (baculovirus, ~130,000 bp). I carried out the experimental work, and more importantly, performed the genome assembly, annotation and further analysis.'
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"

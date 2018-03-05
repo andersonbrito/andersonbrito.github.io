@@ -22,7 +22,7 @@ feature_row2:
 #    btn_class: "btn--inverse"
 
 feature_row3:
-  - image_path: /assets/images/Lorem-Ipsum.png
+  - image_path: /assets/images/latimperial.png
     title: "Latin American Society"
     alt: "Placeholder Image Right Aligned"
     excerpt: 'In 2016-2017 I was the Vice-President of the Imperial College Latin American Society (Lat-Imperial), a student-led association of Latin Americans at Imperial. It acts as a liaison between students and the university, it plays an important role of networking students and academic staff, and promotes the Latin American Culture at Imperial. As a committee member I organized jointly with my collegues a series of social meetings, informal talks, and a symposium with leading Latin American researchers in the UK.'
@@ -31,7 +31,7 @@ feature_row3:
 #    btn_class: "btn--inverse"
 
 feature_row4:
-  - image_path: /assets/images/Lorem-Ipsum.png
+  - image_path: /assets/images/icbrazilforum.png
     title: "Imperial College Brazil Forum"
     alt: "Placeholder Image Left Aligned"
     excerpt: 'Since 2017 I am a student representative at the Imperial College Brazil Forum, a network of Brazilian Academics, Students and Alumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers interested on establishing connections with Brazil. As a student representative I have been organizing events of interest to students no only from Imperial, but other universities in London.'
