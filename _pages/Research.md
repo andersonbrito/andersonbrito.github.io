@@ -15,7 +15,7 @@ feature_row2:
   - image_path: /assets/images/bioinformatics.png
     title: "Bioinformatics"
     alt: "Bioinformatics"
-#    excerpt: 'By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic data and phylogenetic trees.'
+    excerpt: 'By associating Computer Sciences and Biological Sciences, Bioinformatics gives biologists the ability to integrate and extract hidden meanings from large amounts of data available in public databases. Using computer programming (Python), I develop and apply computational tools to integrate and analyse several types of biological data, such as: DNA and protein sequences, protein domain archtechtures, protein structures, taxonomic data and phylogenetic trees.'
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
