@@ -8,10 +8,9 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/articles.png
 
-# intro: 
-#  - excerpt: 'List of published papers and preprints.'
+intro: 
+  - excerpt: 'List of published papers and preprints.'
 ---
-List of published papers and preprints {: style="text-align: center;"}
 
 ## Articles
 
@@ -29,3 +28,6 @@ Ribeiro, B. M. [Genome-wide diversity in temporal and regional populations of th
 * Villabona-Arenas CJ, Brito AF, de Andrade Zanotto PM. [Genomic mosaicism in two strains of dengue virus type 3](http://www.sciencedirect.com/science/article/pii/S1567134813002013). _Infection, Genetics and Evolution_. 2013 Aug 31;18:202-12.
 
 * Oliveira JV, Brito AF, Braconi CT, de Melo Freire CC, Iamarino A, de Andrade Zanotto PM. [Modularity and evolutionary constraints in a baculovirus gene regulatory network](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-87). _BMC systems biology_. 2013 Sep 4;7(1):87.
+
+{% include feature_row id="intro" type="center" %}
+
