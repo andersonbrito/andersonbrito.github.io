@@ -43,7 +43,7 @@ feature_row5:
   - image_path: /assets/images/toastmasters.png
     title: "Toastmasters International"
     alt: "Placeholder Image Right Aligned"
-    excerpt: "I am a member of Toastmasters International, an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice the speaking skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers from multiple ages, genders, nationalities and cultural backgrounds."
+    excerpt: "I am a member of Toastmasters International, an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"

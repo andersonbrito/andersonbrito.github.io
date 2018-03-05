@@ -13,9 +13,3 @@ header:
 intro: 
   - excerpt: 'My name is Anderson Brito, and I am a virologist applying and developing computational tools to study molecular evolution. I hold a BSc degree in Biological Sciences from the University of Brasília (UnB), and a MSc in Microbiology from the University of São Paulo (USP), Brazil. Currently I am a last year PhD student in Computational Biology, based in the Theoretical Systems Biology Group at Imperial College London. My Bioinformatics research focuses on multiple aspects of Molecular Evolution, integrating Phylogenetics, Genomics and Protein structure data to better understand the evolution of pathogens from a systemic perpective.'
 ---
-
-This post should display a **header image**, if the theme supports it.
-
-Non-square images can provide some unique styling issues.
-
-This post tests a horizontal header image.
