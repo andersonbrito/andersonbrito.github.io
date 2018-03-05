@@ -16,7 +16,7 @@ feature_row2:
   - image_path: /assets/images/abepuk.png
     title: "ABEP-UK"
     alt: "ABEP-UK"
-    excerpt: "I was the Executive Director 2016-2017 of the [ABEP-UK](https://abep.org.uk) (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led organization acting nationwide in the UK since in 1980. Its mission is to represent and connect Brazilian Students and Researchers. At ABEP-UK I had a chance to represent its members in oficial occasions at embassies and academic institutions, and I coordinated a [student survey](https://abepuk.files.wordpress.com/2017/01/relatorio-abep-uk-normas-capes-cnpq2.pdf), and organized an [international conference](https://abep.org.uk/conference2017/) in 2017."
+    excerpt: "I was the Executive Director 2016-2017 of the [ABEP-UK](https://abep.org.uk/quem-somos/diretorias-da-abep/2010-2020-2/) (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led organization acting nationwide in the UK since in 1980. Its mission is to represent and connect Brazilian Students and Researchers. At ABEP-UK I had a chance to represent its members in oficial occasions at embassies and academic institutions, and I coordinated a [student survey](https://abepuk.files.wordpress.com/2017/01/relatorio-abep-uk-normas-capes-cnpq2.pdf), and organized an [international conference](https://abep.org.uk/conference2017/) in 2017."
 #    url: "https://abep.org.uk"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -43,7 +43,7 @@ feature_row5:
   - image_path: /assets/images/toastmasters.png
     title: "Toastmasters International"
     alt: "Toastmasters International"
-    excerpt: "I am a member of [Toastmasters International[(https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
+    excerpt: "I am a member of [Toastmasters International](https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
