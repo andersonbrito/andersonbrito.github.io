@@ -52,7 +52,7 @@ feature_row6:
   - image_path: /assets/images/outreach.png
     title: "Outreach"
     alt: "Outreach"
-    excerpt: "I have been involved in Science Communication activities both to kids and adults. As a volunteer at Native Scientists, the focus is to teach Science to kids from migrant communities, aiming to inspire ethnic minority pupils to pursue higher education. I also took part as a speaker and regular participant at [PubhD](), an initiave present in six countries that provides PhD students an opportunity to talk about their research in an informal atmosphere, for a diverse audience, in a jargon-free style."
+    excerpt: "I have been involved in Science Communication activities both to kids and adults. As a volunteer at [Native Scientist](https://www.nativescientist.com/about), the focus is to teach Science to kids from migrant communities, aiming to inspire ethnic minority pupils to pursue higher education. I also took part as a speaker and have been a regular participant at [PubhD](https://pubhd.wordpress.com/pubhd-locations/), an initiave present in six countries that provides PhD students an opportunity to talk about their research in an informal atmosphere, for a diverse audience, in a jargon-free style."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
