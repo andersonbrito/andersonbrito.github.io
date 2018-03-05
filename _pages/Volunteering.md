@@ -10,7 +10,7 @@ header:
   caption: "Photo credit: [fanjianhua](https://www.freepik.com/fanjianhua)"
 
 intro: 
-  - excerpt: 'Besides my research, I have been involved in a series of volunteering activities of political, cultural, social and scientific natures.'
+  - excerpt: 'Besides my research, I have been involved in a series of volunteering activities of political, cultural, social and scientific character.'
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.png

@@ -33,7 +33,7 @@ feature_row4:
   - image_path: /assets/images/phylogenetics.png
     title: "Phylogenetics and Molecular Evolution"
     alt: "Placeholder Image Left Aligned"
-    excerpt: 'By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliation (co-phylogenetic analysis); and reconstruct ancestral sequences.
+    excerpt: 'By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliation (co-phylogenetic analysis); and reconstruct ancestral sequences'.
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
