@@ -25,7 +25,7 @@ feature_row3:
   - image_path: /assets/images/latimperial.png
     title: "Latin American Society"
     alt: "Latin American Society"
-    excerpt: "In 2016-2017 I was the Vice-President of the [Imperial College Latin American Society](https://www.imperialcollegeunion.org/activities/a-to-z/latin-american) (Lat-Imperial), a student-led association of Latin Americans at Imperial. It acts as a liaison between students and the Imperial College Administration, it plays an important role of networking students and academic staff, and promotes the Latin American Culture at Imperial. As a committee member I organized jointly with my collegues a series of social meetings, informal talks, and a [symposium](https://www.union.ic.ac.uk/osc/latamsoc/symposium.html) with leading Latin American researchers in the UK."
+    excerpt: "In 2016-2017 I was the Vice-President of the [Imperial College Latin American Society](https://www.imperialcollegeunion.org/activities/a-to-z/latin-american) (Lat-Imperial), a student-led association of Latin Americans at Imperial. It acts as a liaison between students and the Imperial College Administration, playing an important role networking students and academic staff, and promoting the Latin American Culture at Imperial. As a committee member I organized jointly with my collegues a series of social meetings, informal talks, and a [symposium](https://www.union.ic.ac.uk/osc/latamsoc/symposium.html) with leading Latin American researchers in the UK."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
