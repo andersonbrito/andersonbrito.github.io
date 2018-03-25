@@ -12,7 +12,7 @@ intro:
   - excerpt: 'List of published papers and preprints.'
 
 feature_row:
-  - image_path: [/assets/images/erelgv2018.png](http://journal.frontiersin.org/article/10.3389/fmicb.2017.01557/full)
+  - image_path: /assets/images/erelgv2018.png
     excerpt: "**Brito AF**; Melo, FL; Ardisson-Araújo DMP; Sihler W; Souza ML;
 Ribeiro BM. [Genome-wide diversity in temporal and regional populations of the betabaculovirus Erinnyis ello granulovirus (ErelGV)](https://www.biorxiv.org/content/early/2018/02/28/273672). _bioRxiv Preprint_ 2018."
   - image_path: assets/images/vhppi2017.png
