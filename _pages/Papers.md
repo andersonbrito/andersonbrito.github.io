@@ -13,6 +13,7 @@ intro:
 
 feature_row:
   - image_path: /assets/images/erelgv2018.png
+	url: https://www.biorxiv.org/content/early/2018/02/28/273672
     excerpt: "**Brito AF**; Melo, FL; Ardisson-Araújo DMP; Sihler W; Souza ML;
 Ribeiro BM. [Genome-wide diversity in temporal and regional populations of the betabaculovirus Erinnyis ello granulovirus (ErelGV)](https://www.biorxiv.org/content/early/2018/02/28/273672). _bioRxiv Preprint_ 2018."
   - image_path: assets/images/vhppi2017.png
