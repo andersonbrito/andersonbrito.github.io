@@ -13,26 +13,16 @@ intro:
 
 feature_row:
   - image_path: assets/images/Lorem-Ipsum.jpg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/Lorem-Ipsum.jpg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**Brito AF** and Pinney JW. [Protein–Protein Interactions in Virus–Host Systems](http://journal.frontiersin.org/article/10.3389/fmicb.2017.01557/full). _Frontier in Microbiology_ 2017. 8:1557."
   - image_path: /assets/images/Lorem-Ipsum.jpg
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 feature_row2:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
+  - image_path: /assets/images/Lorem-Ipsum.jpg
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder 2"
+  - image_path: /assets/images/Lorem-Ipsum.jpg
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
+  - image_path: /assets/images/Lorem-Ipsum.jpg
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 ---
 
