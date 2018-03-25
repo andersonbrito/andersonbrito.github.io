@@ -12,18 +12,20 @@ intro:
   - excerpt: 'List of published papers and preprints.'
 
 feature_row:
+  - image_path: /assets/images/Lorem-Ipsum.jpg
+    excerpt: "**Brito AF**; Melo, FL; Ardisson-Araújo DMP; Sihler W; Souza ML;
+Ribeiro BM. [Genome-wide diversity in temporal and regional populations of the betabaculovirus Erinnyis ello granulovirus (ErelGV)](https://www.biorxiv.org/content/early/2018/02/28/273672). _bioRxiv Preprint_ 2018."
   - image_path: assets/images/Lorem-Ipsum.jpg
     excerpt: "**Brito AF** and Pinney JW. [Protein–Protein Interactions in Virus–Host Systems](http://journal.frontiersin.org/article/10.3389/fmicb.2017.01557/full). _Frontier in Microbiology_ 2017. 8:1557."
   - image_path: /assets/images/Lorem-Ipsum.jpg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "**Brito AF**, Braconi CT, Weidmann M, Dilcher M, Alves JM, Gruber A, de Andrade Zanotto PM. [The pangenome of the Anticarsia gemmatalis multiple nucleopolyhedrovirus (AgMNPV)](http://gbe.oxfordjournals.org/content/8/1/94.short). _Genome biology and evolution_. 2016 Jan 1;8(1):94-108."
 
 feature_row2:
   - image_path: /assets/images/Lorem-Ipsum.jpg
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - image_path: /assets/images/Lorem-Ipsum.jpg
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: /assets/images/Lorem-Ipsum.jpg
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+
 ---
 
 {% include feature_row id="intro" type="center" %}
