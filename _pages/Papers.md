@@ -13,7 +13,7 @@ intro:
 
 feature_row:
   - image_path: /assets/images/reconciliation2018.png
-    excerpt: "**Brito AF** and Pinney JW. [Time-calibrated tree reconciliations reveal frequent losses, intrahost speciations, and host switches in the evolution of herpesviruses). _bioRxiv Preprint_ 2018."
+    excerpt: "**Brito AF** and Pinney JW. [Time-calibrated tree reconciliations reveal frequent losses, intrahost speciations, and host switches in the evolution of herpesviruses](https://www.biorxiv.org/content/early/2018/09/14/418111). _bioRxiv Preprint_ 2018."
   - image_path: /assets/images/erelgv2018.png
     excerpt: "**Brito AF**; Melo, FL; Ardisson-Araújo DMP; Sihler W; Souza ML;
 Ribeiro BM. [Genome-wide diversity in temporal and regional populations of the betabaculovirus Erinnyis ello granulovirus (ErelGV)](https://www.biorxiv.org/content/early/2018/02/28/273672). _BMC Genomics_ In press."
