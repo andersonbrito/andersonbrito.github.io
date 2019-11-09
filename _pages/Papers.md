@@ -13,7 +13,7 @@ intro:
 
 feature_row:
   - image_path: /assets/images/westnilevirus20.png
-    excerpt: "Hadfield J, **Brito AF**, Swetnam DM, Vogels CB, Tokarz RE, Andersen KG, Smith RC, Bedford T, Grubaugh ND. Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain. [Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008042). _PLoS pathogens_. 2019."
+    excerpt: "Hadfield J, **Brito AF**, Swetnam DM, Vogels CB, Tokarz RE, Andersen KG, Smith RC, Bedford T, Grubaugh ND. [Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008042). _PLoS pathogens_. 2019."
   - image_path: /assets/images/ppiEvolution.png
     excerpt: "**Brito AF** and Pinney JW. [The structural evolution of host-pathogen protein interactions: an integrative approach](https://www.biorxiv.org/content/10.1101/581637v1). _bioRxiv Preprint_ 2019."
   - image_path: /assets/images/repertoire.png
