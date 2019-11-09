@@ -94,9 +94,9 @@ author:
   avatar           : "/assets/images/anderson.png"
   bio              : "Bioinformatician | Virologist | Evolutionary Biologist.\n
   Currently I'm a Postdoc at Yale University."
-  location         : "London, UK"
+  location         : "New Haven, CT - USA"
   email            : "andersonfbrito@gmail.com"
-  uri              : "http://www.imperial.ac.uk/people/anderson.brito14"
+  uri              : "http://grubaughlab.com/team/"
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -116,7 +116,7 @@ author:
   stackoverflow    : 
   steam            : 
   tumblr           :
-  twitter          : #"AndersonBrito_"
+  twitter          : "AndersonBrito_"
   vine             :
   weibo            :
   xing             :
