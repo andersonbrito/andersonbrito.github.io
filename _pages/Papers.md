@@ -17,7 +17,8 @@ feature_row:
   - image_path: /assets/images/ppiEvolution.png
     excerpt: "**Brito AF** and Pinney JW. [The structural evolution of host-pathogen protein interactions: an integrative approach](https://www.biorxiv.org/content/10.1101/581637v1). _bioRxiv Preprint_ 2019."
   - image_path: /assets/images/repertoire.png
-    excerpt: "**Brito AF** and Pinney JW. [The evolution of protein domain repertoires: shedding light on the origins of herpesviruses](https://academic.oup.com/ve/article/6/1/veaa001/5726995). _Virus Evolution_ 2020."
+    excerpt: "**Brito AF** and Pinney JW. [The evolution of protein domain repertoires: shedding light on the origins of herpesviruses](https://www.biorxiv.org/content/early/2018/09/20/423525). _bioRxiv Preprint_ 2018."
+
 
 
 feature_row2:
