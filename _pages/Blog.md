@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-layout: categories
+layout: single
 permalink: /_pages/Blog/
 date: 2020-03-20T00:08:41-04:00
 header:
@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/articles.png
 
 intro: 
-  - excerpt: 'Em construcao.'
+  - excerpt: 'Em construção.'
 
 ---
 
