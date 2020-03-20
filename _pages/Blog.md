@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/articles.png
 
 intro: 
-  - excerpt: 'Em construção.'
+  - excerpt: 'Em construcao.'
 
 ---
 
