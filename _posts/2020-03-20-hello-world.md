@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-layout: single
+layout: posts
 permalink: /_posts/Hello/
 ---
 
