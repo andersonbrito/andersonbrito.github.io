@@ -1,6 +1,6 @@
 ---
 title: "Blog"
-layout: single
+layout: categories
 permalink: /_pages/Blog/
 date: 2020-03-20T00:08:41-04:00
 header:
