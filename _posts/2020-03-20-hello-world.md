@@ -1,7 +1,8 @@
 ---
-layout: post
+title: Hello
+layout: single
 title:  "Welcome to Jekyll!"
-permalink: /Hello/
+permalink: /_post/Hello/
 ---
 
 # Welcome
