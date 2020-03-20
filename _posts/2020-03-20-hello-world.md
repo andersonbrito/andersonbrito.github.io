@@ -2,7 +2,7 @@
 title: Hello
 layout: single
 title:  "Welcome to Jekyll!"
-permalink: /_post/Hello/
+permalink: /_posts/Hello/
 ---
 
 # Welcome
