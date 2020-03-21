@@ -1,5 +1,5 @@
 ---
-title:  "Welcome to Jekyll!"
+title:  "Welcome!"
 layout: posts
 permalink: /_posts/Hello/
 ---
