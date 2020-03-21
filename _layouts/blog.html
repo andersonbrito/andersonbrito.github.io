@@ -15,15 +15,6 @@ title: Blog
   {% endunless %}
 {% endif %}
 
-<div class="posts">
-    {% for post in site.posts %}
-        <article>
-            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            Published on {{ post.date | date_to_string }}
-            {{ post.excerpt }}
-        </article>
-    {% endfor %}
-</div>﻿
 
 <div id="main" role="main">
   {% include sidebar.html %}
@@ -33,4 +24,14 @@ title: Blog
     {% if page.excerpt %}<meta itemprop="description" content="{{ page.excerpt | markdownify | strip_html | strip_newlines | escape_once }}">{% endif %}
     {% if page.date %}<meta itemprop="datePublished" content="{{ page.date | date: "%B %d, %Y" }}">{% endif %}
     {% if page.last_modified_at %}<meta itemprop="dateModified" content="{{ page.last_modified_at | date: "%B %d, %Y" }}">{% endif %}
+    
+    <div class="posts">
+    {% for post in site.posts %}
+        <article>
+            <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+            Published on {{ post.date | date_to_string }}
+            {{ post.excerpt }}
+        </article>
+    {% endfor %}
+    </div>
 </div>
