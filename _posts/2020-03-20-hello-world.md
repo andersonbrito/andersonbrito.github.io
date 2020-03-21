@@ -4,7 +4,7 @@ layout: single
 permalink: /_posts/Hello/
 ---
 
-## Welcome
+# Welcome
 
 **Hello world**, this is my first Jekyll blog post.
 
