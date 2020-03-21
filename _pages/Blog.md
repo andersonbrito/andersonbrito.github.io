@@ -1,8 +1,8 @@
 ---
 title: "Blog"
-layout: single
+layout: blog
 permalink: /_pages/Blog/
-date: 2020-03-20T00:08:41-04:00
+#date: 2020-03-20T00:08:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
