@@ -1,5 +1,6 @@
 ---
 title:  "Welcome!"
+layout: single
 permalink: /_posts/Hello/
 ---
 
