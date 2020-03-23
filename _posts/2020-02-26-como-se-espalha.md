@@ -34,6 +34,8 @@ Visite https://coronavirus.saude.gov.br/
 Fonte: <https://andersonbrito.github.io/_posts/transmissao/><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
+***
+
 <img src="/assets/images/covid-share.png" width="700">
 
 
