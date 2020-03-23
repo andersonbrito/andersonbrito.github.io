@@ -17,8 +17,8 @@ Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, 
 **3.** Se você **NÃO** sabe a origem da informação, **NÃO** compartilhe.<br>
 
 ✹ **Compartilhe apenas informações confiáveis!** ✋ 🚫<br>
-Não espalhe informações sobre o coronavírus sem saber se elas são verdadeiras. O Ministério da Saúde​ traz dados confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID19.<br>
-Visite <https://coronavirus.saude.gov.br/>
+Não espalhe informações sobre o coronavírus sem saber se elas são verdadeiras. O Ministério da Saúde​ traz dados confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID-19.<br>
+Visite → <https://coronavirus.saude.gov.br/>
 
 Fonte: <https://andersonbrito.github.io/_posts/noticias-falsas/><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
