@@ -22,3 +22,5 @@ Visite <https://coronavirus.saude.gov.br/>
 
 Fonte: <https://andersonbrito.github.io/_posts/noticias-falsas/><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
+
+***

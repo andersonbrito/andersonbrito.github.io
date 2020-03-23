@@ -32,6 +32,8 @@ O receio então, é menos da doença em si, e mais em função de um possível c
 Fonte: <https://andersonbrito.github.io/_posts/distanciamento/><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
+***
+
 <img src="/assets/images/cadeiasLoop.gif">
 
 ## Compartilhe em suas redes sociais
