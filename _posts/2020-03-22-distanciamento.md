@@ -18,7 +18,7 @@ Estamos diante de um novo vírus, e ninguém tem proteção natural contra ele. 
 ✹ **E como ficar em casa vai ajudar?**<br />
 Esse vírus é transmitido muito facilmente: uma pessoa doente pode passar o vírus para outras 2 ou 3 pessoas. Com isso, a cada dia, o número de infectados pode dobrar. Quando ficamos em casa, ocorre o que é mostrado na imagem abaixo: quem fica em casa está seguro, não se infecta, e ajuda a interromper a cadeia de transmissão do vírus.
 
-<img src="/assets/images/cadeias.gif" width="700">
+![](/assets/images/cadeias.mp4)
 
 ✹ **Como eu posso ajudar?**<br />
 Para evitar o colapso do nosso sistema de saúde temos que evitar que um número muito grande de pessoas se infectem ao mesmo tempo. Se você quer ajudar: fique em casa, se possível. Reduza seu contato com outras pessoas, e saia de casa apenas se for muito necessário. Dessa forma você não se infecta, e não infecta outras pessoas por aí.
