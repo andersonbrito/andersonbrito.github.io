@@ -92,9 +92,8 @@ analytics:
 author:
   name             : "Anderson Brito"
   avatar           : "/assets/images/anderson.png"
-  bio              : "Bioinformatician | Virologist | Evolutionary Biologist.\n
-  Currently I'm a Postdoc at Yale University."
-  location         : "New Haven, CT - USA"
+  bio              : "Bioinformatician | Virologist | Evolutionary Biologist. I'm a Postdoc at Yale University."
+  location         : "CT, USA"
   email            : "andersonfbrito@gmail.com"
   uri              : "http://grubaughlab.com/team/"
   home             : # null (default), "absolute or relative url to link to author home"

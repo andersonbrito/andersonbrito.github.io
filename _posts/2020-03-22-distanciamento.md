@@ -26,10 +26,11 @@ Para evitar o colapso do nosso sistema de saúde temos que evitar que um número
 ✹ **Meus amigos e parentes não estão nem aí. Quais os riscos?**<br />
 Se continuarmos a ignorar a epidemia, os governos locais terão que tomar medidas mais drásticas, como proibir aglomerações de 5 ou mais pessoas, ou até instituir quarentenas obrigatórias, como fará o governo de São Paulo a partir do dia 24 de Março. Além disso, a irresponsabilidade de uns poderá causar a morte de muitos. Temos que fazer a nossa parte: não basta só cobrar ações dos governos.
 
-Fonte: https://andersonbrito.github.io/_posts/transmissao/<br>
-Autor: Dr Anderson F. Brito, Virologista, Yale University
+✹ **Conclusão**<br />
+O receio então, é menos da doença em si, e mais em função de um possível colapso do sistema de saúde (público ou privado, ambos poderão ser afetados). Nesse sentido, evitar aglomerações e ficar em casa ajuda a conter a velocidade da transmissão, dando tempo pro sistema de saúde lidar com a quantidade de doentes nessa primeira onda da epidemia.
 
-<img src="/assets/images/covid-share.png" width="700">
+Fonte: <https://andersonbrito.github.io/_posts/distanciamento/><br>
+Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 
 ## Compartilhe em suas redes sociais
