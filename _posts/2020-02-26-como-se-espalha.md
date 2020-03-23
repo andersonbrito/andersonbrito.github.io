@@ -1,5 +1,5 @@
 ---
-title:  "Como o coronavirus é transmitido?"
+title: "Como o coronavirus é transmitido?"
 layout: single
 permalink: /_posts/transmissao/
 date: 2020-02-26
