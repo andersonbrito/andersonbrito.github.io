@@ -3,11 +3,6 @@ title: "Como o coronavirus é transmitido?"
 layout: single
 permalink: /_posts/transmissao/
 date: 2020-02-26
-tags:
-  - content
-  - embeds
-  - media
-  - twitter
 ---
 
 O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. Abaixo você encontra informações sobre a doença, e como conter o espalahamento
@@ -34,11 +29,10 @@ O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carr
 > Fonte: https://andersonbrito.github.io/_posts/transmissao/
 > Autor: Dr Anderson F. Brito, Virologista, Yale University
 
-<img src="/assets/images/covid-share.png" width="100">
+<img src="/assets/images/covid-share.png" width="850">
 
 
 #### Compartilhe em suas redes sociais
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">O espalhamento global da <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> é uma realidade. O termo &quot;pandemia&quot;, carregado de esteriótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. <a href="https://t.co/8Mi3hSrbn8">pic.twitter.com/8Mi3hSrbn8</a></p>&mdash; Anderson &quot;13 days in isolation&quot; Brito (@AndersonBrito_) <a href="https://twitter.com/AndersonBrito_/status/1232665484887232512?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
-<div class="fb-post" data-href="https://www.facebook.com/britoaf/posts/2930405217043011" data-width="500" data-show-text="true"><blockquote cite="https://developers.facebook.com/britoaf/posts/2930405217043011" class="fb-xfbml-parse-ignore"><p>Sobre a epidemia do #NovoCoronavírus | O espalhamento global do vírus é uma realidade. O termo &quot;pandemia&quot;, carregado de...</p>Posted by <a href="#" role="button">Anderson Brito</a> on&nbsp;<a href="https://developers.facebook.com/britoaf/posts/2930405217043011">Wednesday, 26 February 2020</a></blockquote></div>
