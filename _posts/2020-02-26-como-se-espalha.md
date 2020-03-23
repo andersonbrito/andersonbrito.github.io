@@ -5,7 +5,7 @@ permalink: /_posts/transmissao/
 date: 2020-02-26
 ---
 
-<a href="https://andersonbrito.github.io/_posts/distanciamento/">
+<a href="https://andersonbrito.github.io/_posts/transmissao/">
 <img src="/assets/images/covid-como.png" width="700"></a>
 
 O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. Abaixo você encontra informações sobre a doença, e como conter o espalahamento
