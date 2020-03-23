@@ -5,7 +5,7 @@ permalink: /_posts/distanciamento/
 date: 2020-03-23
 ---
 
-<a href="https://andersonbrito.github.io/_posts/transmissao/">
+<a href="https://andersonbrito.github.io/_posts/distanciamento/">
 <img src="/assets/images/distanciamento.png" width="700"></a>
 
 Não param de falar de **Distanciamento Social**. O que é isso, e como isso ajuda a conter essa epidemia do coronavírus? O vírus é transmitido especialmente de pessoa para pessoa. No texto abaixo texto explico a importância do isolamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
