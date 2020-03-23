@@ -5,7 +5,7 @@ permalink: /_posts/transmissao/
 date: 2020-02-26
 ---
 
-<a href="https://andersonbrito.github.io/_posts/transmissao/">
+<a href="https://andersonbrito.github.io/_posts/distanciamento/">
 <img src="/assets/images/covid-como.png" width="700"></a>
 
 O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. Abaixo você encontra informações sobre a doença, e como conter o espalahamento
@@ -30,7 +30,7 @@ Para evitar o espalhamento do vírus da COVID19: cubra a boca ao tossir ou espir
 Não espalhe informações sobre o #coronavírus sem saber se elas são verdadeiras. O Ministério da Saúde traz dados confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID19.
 Visite https://coronavirus.saude.gov.br/
 
-Fonte: https://andersonbrito.github.io/_posts/transmissao/
+Fonte: <https://andersonbrito.github.io/_posts/distanciamento/>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 <img src="/assets/images/covid-share.png" width="700">
