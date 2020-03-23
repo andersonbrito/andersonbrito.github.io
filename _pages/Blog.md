@@ -6,7 +6,7 @@ permalink: /_pages/Blog/
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/articles.png
+  overlay_image: /assets/images/goodsell-virologyN.png
 
 intro: 
   - excerpt: 'Em construção.'
