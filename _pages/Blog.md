@@ -4,7 +4,7 @@ layout: blog
 permalink: /_pages/Blog/
 header:
   overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_filter: "0.1"
   overlay_image: /assets/images/virus_long.png
   caption: "Photo credit: [Freepik](https://www.freepik.com/)"
 
