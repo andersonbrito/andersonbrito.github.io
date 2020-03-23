@@ -8,7 +8,7 @@ date: 2020-03-18
 Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, e textos como informações falsas sobre a epidemia do coronavírus. Compartilhe a mensagem abaixo em grupos do WhatsApp: dicas simples para estimular seus familiares a desconfiar, e não espalhar desinformação.
 
 
-## Compartilhe o texto e a imagem via WhatsApp
+## Compartilhe o texto abaixo via WhatsApp
 
 🤔 💭 3 dicas para evitar notícias falsas sobre o Coronavírus:
 
