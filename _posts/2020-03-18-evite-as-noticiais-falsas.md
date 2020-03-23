@@ -3,6 +3,7 @@ title: "3 dicas simples para evitar as notícias falsas"
 permalink: /_posts/noticias-falsas/
 date: 2020-03-18
 ---
+<a href="https://andersonbrito.github.io/_posts/noticias-falsas/"><img src="/assets/images/fakenews.png" width="700">
 
 Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, e textos como informações falsas sobre a epidemia do coronavírus. Compartilhe a mensagem abaixo em grupos do WhatsApp: dicas simples para estimular seus familiares a desconfiar, e não espalhar desinformação.
 
