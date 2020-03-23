@@ -8,16 +8,17 @@ date: 2020-02-26
 <a href="https://andersonbrito.github.io/_posts/transmissao/">
 <img src="/assets/images/covid-como.png" width="700"></a>
 
-O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. Abaixo você encontra informações sobre a doença, e como conter o espalahamento
-
+Abaixo você encontra informações sobre a doença COVID-19, e como conter o espalhamento do vírus que a causa, chamado SARS-CoV-2.
 
 ## Compartilhe o texto e a imagem abaixo no WhatsApp
 
+O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. 
+
 ✹ **Como é a doença causada pelo novo coronavírus?**<br>
-A #COVID19 é uma doença respiratória, a qual tem afetado especialmente pessoas acima de 30 anos, e tem causado a morte principalmente de idosos (65+ anos). A maioria dos casos tem sido leve ou severo, e apenas casos críticos tem levado à morte (aproximadamente 2%).
+A COVID-19 é uma doença respiratória, a qual tem afetado especialmente pessoas acima de 30 anos, e tem causado a morte principalmente de idosos (60+ anos). A maioria dos casos tem sido leve ou severo, e apenas casos críticos tem levado à morte (aproximadamente 2%).
 
 ✹ **Quais são os principais sintomas da doença?**<br>
-Os principais sintomas da #COVID são: Febre; Tosse; e Falta de ar. Estes sintomas podem surgir entre 2 e 14 dias após a exposição ao vírus SARS-CoV-2. Em caso de sintomas leves, recomenda-se que a pessoa permaneça em casa, para evitar transmissões a pessoas mais vulneráveis.
+Os principais sintomas da COVID são: Febre; Tosse; e Falta de ar. Estes sintomas podem surgir entre 2 e 14 dias após a exposição ao vírus SARS-CoV-2. Em caso de sintomas leves, recomenda-se que a pessoa permaneça em casa, para evitar transmissões a pessoas mais vulneráveis.
 
 ✹ **Como a doença é transmitida?**<br>
 O vírus da COVID19 é transmitido por meio de gotículas expelidas quando a pessoa infectada espirra ou tosse. As gotículas espalham-se por poucos metros (2-3 metros), eventualmente encontrando a boca/nariz de outras pessoas, e dando início a novas infecções. Outra forma de contágio é por meio de objetos contaminados por gotículas contendo vírus, tais como maçanetas, corrimãos, interruptores de luz, superfícies de mesas, portas, bancos etc. Evite tocar seus olhos, nariz e boca com as mãos sujas.
