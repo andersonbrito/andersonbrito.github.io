@@ -5,7 +5,7 @@ permalink: /_posts/distanciamento/
 date: 2020-03-23
 ---
 
-<a href="https://andersonbrito.github.io/_posts/distanciamento/"><img src="/assets/images/cadeiasLoop.gif" width="700">
+<a href="https://bit.ly/COVID-distanciamento"><img src="/assets/images/cadeiasLoop.gif" width="700">
 
 No texto abaixo explico a importância do distanciamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
 
@@ -29,7 +29,7 @@ Se continuarmos a ignorar a epidemia, os governos locais terão que tomar medida
 ✹ **Conclusão**<br />
 O receio então, é menos da doença em si, e mais em função de um possível colapso do sistema de saúde (público ou privado, ambos poderão ser afetados). Nesse sentido, evitar aglomerações e ficar em casa ajuda a conter a velocidade da transmissão, dando tempo pro sistema de saúde lidar com a quantidade de doentes nessa primeira onda da epidemia.
 
-Fonte: <https://andersonbrito.github.io/_posts/distanciamento/><br>
+Fonte: <https://bit.ly/COVID-distanciamento><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***

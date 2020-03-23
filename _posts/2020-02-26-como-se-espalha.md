@@ -5,7 +5,7 @@ permalink: /_posts/transmissao/
 date: 2020-02-26
 ---
 
-<a href="https://andersonbrito.github.io/_posts/transmissao/">
+<a href="https://bit.ly/COVID-transmissao">
 <img src="/assets/images/covid-como.png" width="700"></a>
 
 Abaixo você encontra informações sobre a doença COVID-19, e como conter o espalhamento do vírus que a causa, chamado SARS-CoV-2.
@@ -31,7 +31,7 @@ Para evitar o espalhamento do vírus da COVID-19: cubra a boca ao tossir ou espi
 Não espalhe informações sobre o #coronavírus sem saber se elas são verdadeiras. O Ministério da Saúde traz dados confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID19.
 Visite https://coronavirus.saude.gov.br/
 
-Fonte: <https://andersonbrito.github.io/_posts/transmissao/><br>
+Fonte: <https://bit.ly/COVID-transmissao><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
