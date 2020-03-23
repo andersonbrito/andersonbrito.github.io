@@ -7,11 +7,11 @@ date: 2020-03-23
 
 <a href="https://andersonbrito.github.io/_posts/distanciamento/"><img src="/assets/images/cadeiasLoop.gif" width="700">
 
-
-Não param de falar de **Distanciamento Social**. O que é isso, e como isso ajuda a conter essa epidemia do coronavírus? O vírus é transmitido especialmente de pessoa para pessoa. No texto abaixo texto explico a importância do isolamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
-
+No texto abaixo texto explico a importância do isolamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
 
 ## Compartilhe este texto e imagem abaixo via WhatsApp
+
+Não param de falar de **Distanciamento Social**. O que é isso, e como isso ajuda a conter essa epidemia do coronavírus? Não se esqueça: o vírus é transmitido principalmente de pessoa para pessoa. 
 
 ✹ **Tudo está parado. Por que essa epidemia é tão grave?**<br />
 Estamos diante de um novo vírus, e ninguém tem proteção natural contra ele. A preocupação principal nessa pandemia é com a superlotação do sistema de saúde. Se quase todo mundo for infectado ao mesmo tempo, os hospitais (públicos e particulares) não darão conta do número enorme de doentes. Apesar da epidemia, a vida continua: pessoas continuarão a ter infartos, derrames, mal-estares em função de quimioterapia, picos de glicemia, acidentes de carro, etc. Num sistema colapsado, essas pessoas poderão ficar sem atendimento.

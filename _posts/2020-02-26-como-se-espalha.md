@@ -30,7 +30,7 @@ Para evitar o espalhamento do vírus da COVID19: cubra a boca ao tossir ou espir
 Não espalhe informações sobre o #coronavírus sem saber se elas são verdadeiras. O Ministério da Saúde traz dados confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID19.
 Visite https://coronavirus.saude.gov.br/
 
-Fonte: <https://andersonbrito.github.io/_posts/distanciamento/>
+Fonte: <https://andersonbrito.github.io/_posts/distanciamento/><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 <img src="/assets/images/covid-share.png" width="700">
