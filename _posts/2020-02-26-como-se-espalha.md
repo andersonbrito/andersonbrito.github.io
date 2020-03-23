@@ -12,7 +12,7 @@ O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carr
 
 ***
 
-### Compartilhe o texto e a imagem abaixo no WhatsApp
+## Compartilhe o texto e a imagem abaixo no WhatsApp
 
 ✹ Como é a doença causada pelo novo coronavírus? 
 A #COVID19 é uma doença respiratória, a qual tem afetado especialmente pessoas acima de 30 anos, e tem causado a morte principalmente de idosos (65+ anos). A maioria dos casos tem sido leve ou severo, e apenas casos críticos tem levado à morte (~2%).
@@ -36,7 +36,7 @@ Autor: Dr Anderson F. Brito, Virologista, Yale University
 <img src="/assets/images/covid-share.png" width="700">
 
 
-#### Compartilhe em suas redes sociais
+## Compartilhe em suas redes sociais
 
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">O espalhamento global da <a href="https://twitter.com/hashtag/COVID19?src=hash&amp;ref_src=twsrc%5Etfw">#COVID19</a> é uma realidade. O termo &quot;pandemia&quot;, carregado de esteriótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. <a href="https://t.co/8Mi3hSrbn8">pic.twitter.com/8Mi3hSrbn8</a></p>&mdash; Anderson &quot;13 days in isolation&quot; Brito (@AndersonBrito_) <a href="https://twitter.com/AndersonBrito_/status/1232665484887232512?ref_src=twsrc%5Etfw">February 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 
