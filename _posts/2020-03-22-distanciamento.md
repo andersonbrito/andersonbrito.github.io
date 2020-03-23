@@ -7,7 +7,7 @@ date: 2020-03-23
 
 <a href="https://andersonbrito.github.io/_posts/distanciamento/"><img src="/assets/images/cadeiasLoop.gif" width="700">
 
-No texto abaixo explico a importância do isolamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
+No texto abaixo explico a importância do distanciamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
 
 ## Compartilhe este texto e imagem abaixo via WhatsApp
 
