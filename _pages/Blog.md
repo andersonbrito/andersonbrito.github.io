@@ -2,11 +2,11 @@
 title: "Blog"
 layout: blog
 permalink: /_pages/Blog/
-#date: 2020-03-20T00:08:41-04:00
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/articles.png
+  overlay_image: /assets/images/virus_long.png
+  caption: "Photo credit: [Freepik](https://www.freepik.com/)"
 
 intro: 
   - excerpt: 'Em construção.'
