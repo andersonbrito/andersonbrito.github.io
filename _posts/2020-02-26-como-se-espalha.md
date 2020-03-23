@@ -24,7 +24,7 @@ Os principais sintomas da COVID são: Febre; Tosse; e Falta de ar. Estes sintoma
 O vírus da COVID19 é transmitido por meio de gotículas expelidas quando a pessoa infectada espirra ou tosse. As gotículas espalham-se por poucos metros (2-3 metros), eventualmente encontrando a boca/nariz de outras pessoas, e dando início a novas infecções. Outra forma de contágio é por meio de objetos contaminados por gotículas contendo vírus, tais como maçanetas, corrimãos, interruptores de luz, superfícies de mesas, portas, bancos etc. Evite tocar seus olhos, nariz e boca com as mãos sujas.
 
 ✹ **Como conter a epidemia?**<br>
-Para evitar o espalhamento do vírus da COVID19: cubra a boca ao tossir ou espirrar; evite contato com pessoas com sintomas; lave as mãos com sabão sempre que tocar objetos contaminados. O uso de máscaras é indicado em especial para pessoas com sintomas de infecção respiratória.
+Para evitar o espalhamento do vírus da COVID-19: cubra a boca ao tossir ou espirrar; evite contato com pessoas com sintomas; lave as mãos com sabão sempre que tocar objetos contaminados. O uso de máscaras é indicado em especial para pessoas com sintomas de infecção respiratória.
 
 ✹ **Compartilhe apenas informações confiáveis**<br>
 
