@@ -13,10 +13,10 @@ O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carr
 
 ## Compartilhe o texto e a imagem abaixo no WhatsApp
 
-✹ **Como é a doença causada pelo novo coronavírus?**<br>
+✹ **Como é a doença causada pelo novo coronavírus?**<br />
 A #COVID19 é uma doença respiratória, a qual tem afetado especialmente pessoas acima de 30 anos, e tem causado a morte principalmente de idosos (65+ anos). A maioria dos casos tem sido leve ou severo, e apenas casos críticos tem levado à morte (~2%).
 
-✹ **Quais são os principais sintomas da doença?**<br>
+✹ **Quais são os principais sintomas da doença?**<br/>
 Os principais sintomas da #COVID são: Febre; Tosse; e Falta de ar. Estes sintomas podem surgir entre 2 e 14 dias após a exposição ao vírus #SARSCoV2. Em caso de sintomas leves, recomenda-se que a pessoa permaneça em casa, para evitar transmissões a pessoas mais vulneráveis.
 
 ✹ **Como a doença é transmitida?**<br>
