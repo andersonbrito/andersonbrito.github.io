@@ -4,17 +4,20 @@ layout: single
 permalink: /_posts/distanciamento/
 date: 2020-03-23
 ---
+
 <a href="https://andersonbrito.github.io/_posts/distanciamento/"><video src="/assets/images/cadeias.mp4" poster="/assets/images/cadeias.png" width="700" controls preload></video>
 
 Não param de falar de **Distanciamento Social**. O que é isso, e como isso ajuda a conter essa epidemia do coronavírus? O vírus é transmitido especialmente de pessoa para pessoa. No texto abaixo texto explico a importância do isolamento social, e de que forma ficar em casa nos ajuda a interromper as cadeias de transmissão da epidemia.
 
-## Compartilhe este texto e imagem via WhatsApp
+
+## Compartilhe este texto e imagem abaixo via WhatsApp
 
 ✹ **Tudo está parado. Por que essa epidemia é tão grave?**<br />
 Estamos diante de um novo vírus, e ninguém tem proteção natural contra ele. A preocupação principal nessa pandemia é com a superlotação do sistema de saúde. Se quase todo mundo for infectado ao mesmo tempo, os hospitais (públicos e particulares) não darão conta do número enorme de doentes. Apesar da epidemia, a vida continua: pessoas continuarão a ter infartos, derrames, mal-estares em função de quimioterapia, picos de glicemia, acidentes de carro, etc. Num sistema colapsado, essas pessoas poderão ficar sem atendimento.
 
 ✹ **E como ficar em casa vai ajudar?**<br />
 Esse vírus é transmitido muito facilmente: uma pessoa doente pode passar o vírus para outras 2 ou 3 pessoas. Com isso, a cada dia, o número de infectados pode dobrar. Quando ficamos em casa, ocorre o que é mostrado na imagem abaixo: quem fica em casa está seguro, não se infecta, e ajuda a interromper a cadeia de transmissão do vírus.
+
 
 ✹ **Como eu posso ajudar?**<br />
 Para evitar o colapso do nosso sistema de saúde temos que evitar que um número muito grande de pessoas se infectem ao mesmo tempo. Se você quer ajudar: fique em casa, se possível. Reduza seu contato com outras pessoas, e saia de casa apenas se for muito necessário. Dessa forma você não se infecta, e não infecta outras pessoas por aí.
@@ -28,7 +31,7 @@ O receio então, é menos da doença em si, e mais em função de um possível c
 Fonte: <https://andersonbrito.github.io/_posts/distanciamento/><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
-<img src="/assets/images/cadeias.gif" width="700"></a>
+<img src="/assets/images/cadeiasLoop.gif" width="700"></a>
 
 
 ## Compartilhe em suas redes sociais
