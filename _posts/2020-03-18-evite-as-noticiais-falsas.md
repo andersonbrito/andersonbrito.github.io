@@ -16,13 +16,16 @@ Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, 
 
 ***
 
-### Compartilhe o texto e a imagem abaixo no WhatsApp
+## Compartilhe o texto e a imagem abaixo no WhatsApp
 
 🤔 💭 3 dicas para evitar notícias falsas no WhatsApp:
+
 
 *1.* Se o material NÃO tem link para um site, NÃO compartilhe.
 *2.* Se você NÃO sabe quem criou o material, NÃO compartilhe.
 *3.* Se você NÃO sabe a origem da informação, NÃO compartilhe.
-Saiba mais: <https://g1.globo.com/fantastico/noticia/2020/03/15/coronavirus-tire-duvidas-e-veja-o-que-e-mito-e-o-que-e-verdade-sobre-o-covid-19.ghtml>
+
+Saiba mais:
+<https://g1.globo.com/fantastico/noticia/2020/03/15/coronavirus-tire-duvidas-e-veja-o-que-e-mito-e-o-que-e-verdade-sobre-o-covid-19.ghtml>
 
 
