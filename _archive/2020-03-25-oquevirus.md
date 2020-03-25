@@ -1,7 +1,7 @@
 ---
 title: "Como o distanciamento social ajuda a controlar a epidemia?"
 layout: single
-permalink: /_posts/distanciamento/
+permalink: /_posts/virus/
 date: 2020-03-23
 ---
 
