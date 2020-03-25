@@ -17,7 +17,7 @@ Não param de falar de **Distanciamento Social**. O que é isso, e como isso aju
 Estamos diante de um novo vírus, e ninguém tem proteção natural contra ele. A preocupação principal nessa pandemia é com a superlotação do sistema de saúde. Se quase todo mundo for infectado ao mesmo tempo, os hospitais (públicos e particulares) não darão conta do número enorme de doentes. Apesar da epidemia, a vida continua: pessoas continuarão a ter infartos, derrames, mal-estares em função de quimioterapia, picos de glicemia, acidentes de carro, etc. Num sistema colapsado, essas pessoas poderão ficar sem atendimento.
 
 ✹ **E como ficar em casa vai ajudar?**<br />
-Esse vírus é transmitido muito facilmente: uma pessoa doente pode passar o vírus para outras 2 ou 3 pessoas. Com isso, a cada dia, o número de infectados pode dobrar. Quando ficamos em casa, ocorre o que é mostrado na imagem abaixo: quem fica em casa está seguro, não se infecta, e ajuda a interromper a cadeia de transmissão do vírus.
+Esse vírus é transmitido muito facilmente: uma pessoa doente pode passar o vírus para outras 2 ou 3 pessoas. Com isso, a cada 2 ou 3 dias, o número de infectados pode dobrar. Quando ficamos em casa, ocorre o que é mostrado na imagem abaixo: quem fica em casa está seguro, não se infecta, e ajuda a interromper a cadeia de transmissão do vírus.
 
 
 ✹ **Como eu posso ajudar?**<br />
