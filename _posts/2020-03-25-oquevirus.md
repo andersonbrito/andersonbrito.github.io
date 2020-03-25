@@ -1,11 +1,11 @@
 ---
 title: "O que é um vírus?"
 layout: single
-permalink: /_archive/virus/
-date: 2020-03-23
+permalink: /_posts/virus/
+date: 2020-03-25
 ---
 
-<a href="https://bit.ly/COVID-distanciamento"><img src="/assets/images/cadeiasLoop.gif" width="700">
+<a href=""><img src="/assets/images/virus-cover.png" width="700">
 
 Nesse texto explico o que são os vírus, onde o coronavírus é encontrado, e o que fazer para se proteger.
 
@@ -38,6 +38,6 @@ Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
 
-<img src="/assets/images/cadeiasLoop.gif">
+<img src="/assets/images/virus-zap.png">
 
 
