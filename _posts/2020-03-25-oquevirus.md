@@ -21,7 +21,7 @@ Vírus são agentes infecciosos \*muito pequenos\*, não podemos vê-los a olho 
 O coronavírus está principalmente nas pessoas infectadas. Quantos estas tossem, espirram ou falam, \*gotículas de saliva ou secreção\* se espalham por 1 ou 2 metros, e logo caem. Quando inspiramos essas gotículas, somos infectados. Tais gotículas podem também contaminar objetos. A pessoa infectada, quando cobre a tosse ou o espirro com a mão, pode contaminar objetos ao tocá-los. Quando outras pessoas tocam nesses objetos e levam a mão à boca, olhos e nariz, é por aí que o vírus entra. Os coronavírus não são capazes de entrar pela pele, não.
 
 ✹ **O que fazer para se proteger?**<br />
-→ Se possível, \*evite sair\* de casa sem necessidade. Entenda por que isso é importante → <bit.ly/COVID-distanciamento><br />
+→ Se possível, \*evite sair\* de casa sem necessidade. Entenda por que isso é importante → <https://bit.ly/COVID-distanciamento><br />
 → Se tiver que sair, mantenha distância de ao menos \*2 metros\* de outras pessoas<br />
 → Voltando para casa, \*lave bem as mãos\* com água e sabão, logo ao entrar. Só use álcool gel se você estiver fora de casa, tocando em objetos de uso comum (corrimão de escada, barra de apoio do ônibus, carrinho de compras, etc).<br />
 → Só use máscara se estiver com \*sintomas\*, ou se estiver cuidando de outra pessoa. \*Não use luvas\*, elas passam falsa impressão de segurança: apenas lave as mãoes, e evite tocar o seu rosto.
