@@ -1,7 +1,7 @@
 ---
-title: "Como o distanciamento social ajuda a controlar a epidemia?"
+title: "O que é um vírus?"
 layout: single
-permalink: /_posts/virus/
+permalink: /_archive/virus/
 date: 2020-03-23
 ---
 
