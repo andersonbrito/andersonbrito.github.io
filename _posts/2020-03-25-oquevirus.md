@@ -27,7 +27,7 @@ O coronavírus está principalmente nas pessoas infectadas. Quantos estas tossem
 → Só use máscara se estiver com \*sintomas\*, ou se estiver cuidando de uma pessoa vulnerável a infecções. \*Não use luvas\*, elas passam falsa impressão de segurança: apenas lave as mãos, e evite tocar o seu rosto.
 
 ✹ **Se estou em casa, estou seguro?**<br />
-Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*: ele não vai entrar pela sua janela, nem por debaixo da porta. Apenas pessoas e objetos contaminados trazerem o vírus para dentro de casa.
+Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*: ele não vai entrar pela sua janela, nem por debaixo da porta. Apenas pessoas e objetos contaminados trazem o vírus para dentro de casa.
 
 ✹ **Em poucas palavras...**<br />
 Não podemos ver os coronavírus, mas sabemos onde eles estão: em pessoas e objetos contaminados. Se você está em casa, e ninguém está infectado, você está seguro. Em casa, pratique ações básicas de higiene.<br />
