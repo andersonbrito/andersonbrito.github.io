@@ -11,7 +11,7 @@ Neste texto explico o que são os vírus, onde os coronavírus são encontrados,
 
 ## Compartilhe este texto e imagem abaixo via WhatsApp
 
-Uma pandemia da dimensão desta que estamos enfrentando assusta, e é fonte de muita ansiedade. Estamos lutando contra um inimigo invisível: um vírus.
+Uma pandemia da dimensão desta que estamos enfrentando assusta, e causa muita ansiedade. Estamos lutando contra um inimigo invisível: um vírus.
 
 
 ✹ **Mas o que é um vírus?**<br />
@@ -24,7 +24,7 @@ O coronavírus está principalmente nas pessoas infectadas. Quantos estas tossem
 → Se possível, \*evite sair\* de casa sem necessidade. Entenda por que isso é importante neste link <https://bit.ly/COVID-distanciamento><br />
 → Se tiver que sair, mantenha distância de pelo menos \*2 metros\* de outras pessoas<br />
 → Voltando para casa, \*lave bem as mãos\* com água e sabão, logo ao entrar. Só use álcool gel se você estiver fora de casa, tocando em objetos de uso comum (corrimão de escada, barra de apoio do ônibus, carrinho de compras, etc).<br />
-→ Só use máscara se estiver com \*sintomas\*, ou se estiver cuidando de outra pessoa. \*Não use luvas\*, elas passam falsa impressão de segurança: apenas lave as mãos, e evite tocar o seu rosto.
+→ Só use máscara se estiver com \*sintomas\*, ou se estiver cuidando de uma pessoa vulnerável a infecções. \*Não use luvas\*, elas passam falsa impressão de segurança: apenas lave as mãos, e evite tocar o seu rosto.
 
 ✹ **Se estou em casa, estou seguro?**<br />
 Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*: ele não vai entrar pela sua janela, nem por debaixo da porta. Apenas pessoas e objetos contaminados trazerem o vírus para dentro de casa.
