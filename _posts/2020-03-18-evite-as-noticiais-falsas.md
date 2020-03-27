@@ -17,11 +17,15 @@ Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, 
 **2.** Se você **NÃO** sabe quem criou o material, **NÃO** compartilhe.<br>
 **3.** Se você **NÃO** sabe a origem da informação, **NÃO** compartilhe.<br>
 
+✹ **Quer saber se o material que te enviaram é falso?** ⁉️<br>
+A Fundação Oswaldo Cruz reúne no site abaixo uma lista de informações falsas que estão circulando no WhatsApp e outras redes sociais
+<https://portal.fiocruz.br/coronavirus-covid-19-material-para-download><br>
+
 ✹ **Compartilhe apenas informações confiáveis!** ✋ 🚫<br>
-Desconfie, e não espalhe informações sobre o coronavírus sem saber se são verdadeiras. O Ministério da Saúde​ traz dados confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID-19.<br>
-Visite → <https://coronavirus.saude.gov.br/>
+Desconfie, e não espalhe informações sobre o coronavírus sem saber se são verdadeiras. O site do Ministério da Saúde​ (abaixo) tem informações confiáveis sobre diagnóstico, tratamento, sintomas e outros detalhes sobre a COVID-19.<br>
+Visite → <https://coronavirus.saude.gov.br/><br>
 
 Fonte: <https://bit.ly/COVID-fakenews><br>
-Autor: Dr Anderson F. Brito, Virologista, Yale University
+Autor: Dr Anderson F. Brito, Virologista
 
 ***
