@@ -11,7 +11,7 @@ Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, 
 
 ## Compartilhe o texto abaixo via WhatsApp
 
-🤔 💭 3 dicas para evitar notícias falsas sobre o Coronavírus:
+✹ **3 dicas para evitar notícias falsas sobre o Coronavírus** 🤔 💭
 
 **1.** Se o material **NÃO** tem link para um site, **NÃO** compartilhe.<br>
 **2.** Se você **NÃO** sabe quem criou o material, **NÃO** compartilhe.<br>

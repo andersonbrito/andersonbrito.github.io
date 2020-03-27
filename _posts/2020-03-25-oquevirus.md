@@ -40,7 +40,6 @@ Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 <img src="/assets/images/virus-zap.png">
 
-***
 
 ## Compartilhe em suas redes sociais
 <blockquote class="twitter-tweet"><p lang="pt" dir="ltr">Uma pandemia como esta que enfrentamos assusta e causa de muita ansiedade. É uma luta contra um inimigo invisível: um vírus<br><br>Abaixo explico o que são vírus, onde os coronavírus estão, e o que fazer para se proteger<br><br>🔗<a href="https://t.co/hAIk9a6BLc">https://t.co/hAIk9a6BLc</a><a href="https://twitter.com/hashtag/Coronav%C3%ADrusNoBrasil?src=hash&amp;ref_src=twsrc%5Etfw">#CoronavírusNoBrasil</a> <a href="https://twitter.com/hashtag/SciComm?src=hash&amp;ref_src=twsrc%5Etfw">#SciComm</a> <a href="https://twitter.com/hashtag/COVID?src=hash&amp;ref_src=twsrc%5Etfw">#COVID</a>🇧🇷 <a href="https://t.co/9keNUVVi7x">pic.twitter.com/9keNUVVi7x</a></p>&mdash; Anderson Brito (@AndersonBrito_) <a href="https://twitter.com/AndersonBrito_/status/1242979188526796800?ref_src=twsrc%5Etfw">March 26, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
