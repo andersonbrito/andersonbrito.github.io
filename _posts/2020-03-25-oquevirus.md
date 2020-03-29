@@ -33,7 +33,7 @@ Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*:
 ✹ **Em poucas palavras...**<br />
 Não podemos ver os coronavírus, mas sabemos onde eles estão: em pessoas e objetos contaminados. Se você está em casa, ninguém está infectado nem trazendo objetos contaminados para dentro, você está seguro. Em casa, pratique ações básicas de higiene.<br />
 <br />
-Fonte: <https://andersonbrito.github.io/_posts/virus/><br>
+Fonte: <https://bit.ly/COVID-virus><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
