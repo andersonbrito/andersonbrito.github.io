@@ -13,6 +13,8 @@ Neste texto explico o que são os vírus, onde os coronavírus são encontrados,
 
 Uma pandemia como esta que estamos enfrentando assusta, e causa muita ansiedade. Estamos lutando contra um inimigo invisível: um vírus.
 
+Fonte: <https://bit.ly/COVID-virus><br>
+Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ✹ **Mas o que é um vírus?**<br />
 Vírus são agentes infecciosos \*muito pequenos\*, e não podemos vê-los a olho nu. Os coronavírus, por exemplo, são por volta de 1000 (mil) vezes menores que a espessura de um fio de cabelo. Vírus são feitos basicamente de proteínas e DNA ou RNA. Alguns deles podem ter também uma camada de gordura, como o coronavírus da COVID-19. Da mesma forma como removemos gordura das mãos com detergente, o uso de sabão comum durante a lavagem das mãos rompe aquela membrana de gordura viral, e o destrói.
@@ -33,8 +35,6 @@ Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*:
 ✹ **Em poucas palavras...**<br />
 Não podemos ver os coronavírus, mas sabemos onde eles estão: em pessoas e objetos contaminados. Se você está em casa, ninguém está infectado nem trazendo objetos contaminados para dentro, você está seguro. Em casa, pratique ações básicas de higiene.<br />
 <br />
-Fonte: <https://bit.ly/COVID-virus><br>
-Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
 
