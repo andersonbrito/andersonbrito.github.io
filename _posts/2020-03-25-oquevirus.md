@@ -11,7 +11,7 @@ Neste texto explico o que são os vírus, onde os coronavírus são encontrados,
 
 ## Compartilhe este texto e imagem abaixo via WhatsApp
 
-Uma pandemia da dimensão desta que estamos enfrentando assusta, e causa muita ansiedade. Estamos lutando contra um inimigo invisível: um vírus.
+Uma pandemia como esta que estamos enfrentando assusta, e causa muita ansiedade. Estamos lutando contra um inimigo invisível: um vírus.
 
 
 ✹ **Mas o que é um vírus?**<br />
