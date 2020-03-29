@@ -13,7 +13,7 @@ Neste texto explico o que são os vírus, onde os coronavírus são encontrados,
 
 Uma pandemia como esta que estamos enfrentando assusta, e causa muita ansiedade. Estamos lutando contra um inimigo invisível: um vírus.
 
-Fonte: <https://bit.ly/COVID-virus><br>
+Texto: <https://bit.ly/COVID-virus><br>
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ✹ **Mas o que é um vírus?**<br />
