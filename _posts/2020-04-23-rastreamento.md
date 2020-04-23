@@ -26,5 +26,5 @@ Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
 
-<img src="/assets/images/rastreamento-parte1.png" height="800">
-<img src="/assets/images/rastreamento-parte2.png" width="400">
+<img src="/assets/images/rastreamento-parte1.png">
+<img src="/assets/images/rastreamento-parte2.png">
