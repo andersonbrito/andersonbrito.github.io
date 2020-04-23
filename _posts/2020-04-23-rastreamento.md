@@ -28,3 +28,6 @@ A medida que os vírus se espalham, mutações ficam gravadas em seus genes, e s
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
+
+## Compartilhe em suas redes sociais
+<blockquote class="twitter-tweet"><p lang="pt" dir="ltr">O Financial Times publicou uma matéria interessante sobre o uso de dados genômicos para rastrear o espalhamento global do coronavírus.🧬<br><br>Criei uma versão traduzida das ótimas ilustrações do artigo, e redigi um texto explicativo no site abaixo:<br>🔗 <a href="https://t.co/MX5buMTzMv">https://t.co/MX5buMTzMv</a> <a href="https://twitter.com/hashtag/SciComm?src=hash&amp;ref_src=twsrc%5Etfw">#SciComm</a> <a href="https://t.co/JSmjB9aIVX">pic.twitter.com/JSmjB9aIVX</a></p>&mdash; Anderson Brito (@AndersonBrito_) <a href="https://twitter.com/AndersonBrito_/status/1253214379018989568?ref_src=twsrc%5Etfw">April 23, 2020</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
