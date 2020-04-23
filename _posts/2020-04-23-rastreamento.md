@@ -7,7 +7,7 @@ date: 2020-04-23
 
 <a href="https://bit.ly/COVID-rastreamento"><img src="/assets/images/rastreamento.png" width="700">
 
-Sou virologista, com doutorado em Biologia Computacional: uso programas de computação para estudar como os vírus mudam ao longo do tempo, isto é, como eles evoluem por meio de mutações, e como os vírus se espalham entre cidades, estados, países e continentes. Atualmente tenho usado informações de mutações nos genes dos coronavírus para rastrear onde os vírus estão, e por onde passam, a medida que a pandemia avança aqui nos Estados Unidos. Faço isso usando o [nextstrain](https://nextstrain.org/ncov/global?animate=2019-12-08,2020-04-24,0,0,15000&p=grid), um conjunto de ferramentas computacionais utilizado para rastrear o coronavírus mundialmente.
+Sou virologista, com doutorado em Biologia Computacional: uso programas de computador para estudar como os vírus mudam ao longo do tempo, ou seja, como eles evoluem por meio de mutações. Por meio destas mutações, estudo como os vírus se espalham entre cidades, estados, países e continentes. Atualmente tenho usado informações de mutações nos genes dos coronavírus para rastrear onde esses vírus estão, e por onde se espalham a medida que a pandemia avança aqui nos Estados Unidos. Faço isso usando o [nextstrain](https://nextstrain.org/ncov/global?animate=2019-12-08,2020-04-24,0,0,15000&p=grid), um conjunto de ferramentas computacionais utilizado para rastrear o coronavírus mundialmente.
 
 Este texto foi inspirado pelas ilustrações publicadas [neste artigo do Finantial Times](https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor), que foram traduzidas para o Português nas imagens abaixo.
 
