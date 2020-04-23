@@ -11,9 +11,12 @@ Sou virologista, com doutorado em Biologia Computacional: uso programas de compu
 
 Este texto foi inspirado pelas ilustrações publicadas [neste artigo do Finantial Times](https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92#comments-anchor), que foram traduzidas para o Português nas imagens abaixo.
 
+<img src="/assets/images/rastreamento-parte1.png">
+
 ✹ **Como é possível rastrear o coronavírus??**<br />
 Cada vírus tem um conjunto de genes (um genoma) gravado no material genético deles (no DNA ou RNA). Ao entrar no nosso corpo, os vírus fazem cópias desses genes, e nesse processo acontecem erros de cópia: as mutações genéticas. O coronavírus, por exemplo, acumula 2 ou 3 mutações por mês, em média. Estas mutações passam de uma geração do vírus para a outra, e ficam marcadas nos genes. Quando você está infectado, e passa seus vírus para outra pessoa, os vírus dessa pessoa terão praticamente as mesmas mutações dos seus vírus. Quando usamos computadores para comparar as mutações de vários vírus, podemos agrupá-los em "famílias", com base nas mutações: vírus-avós, vírus-pais, vírus-filhos, vírus-netos, centenas ou milhares de gerações agrupadas em estruturas chamadas árvores filogenéticas.
 
+<img src="/assets/images/rastreamento-parte2.png">
 
 ✹ **De que forma rastrear os vírus ajuda a combatê-lo?**<br />
 Usando as mutações genéticas que os vírus tem, assim como suas datas e locais de coleta, podemos não só agrupá-los numa árvore filogenética, como também podemos calcular onde e quando os ancestriais desses vírus provavelmente estavam dias, meses ou anos atrás. Se coletamos e registramos as mutações virais toda semana, dia após dia, podemos identificar cadeias de transmissão viral quase em tempo real, saber quando o vírus chegou numa região, e de onde ele provavelmente veio. Com isso, medidas de contenção da epidemia podem ser melhor planejadas, como por exemplo fechamento de aeroportos ou rodovias por onde a epidemia poderia se disseminar.
@@ -25,6 +28,3 @@ A medida que os vírus se espalham, mutações ficam gravadas em seus genes, e s
 Autor: Dr Anderson F. Brito, Virologista, Yale University
 
 ***
-
-<img src="/assets/images/rastreamento-parte1.png">
-<img src="/assets/images/rastreamento-parte2.png">
