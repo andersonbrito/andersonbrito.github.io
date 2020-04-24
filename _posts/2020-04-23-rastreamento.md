@@ -19,7 +19,7 @@ Cada vírus tem um conjunto de genes (um genoma) gravado no material genético d
 <img src="/assets/images/rastreamento-parte2.png">
 
 ✹ **De que forma rastrear os vírus ajuda a combatê-lo?**<br />
-Usando as mutações genéticas que os vírus tem, assim como suas datas e locais de coleta, podemos não só agrupá-los numa árvore filogenética, como também podemos calcular onde e quando os ancestriais desses vírus provavelmente estavam dias, meses ou anos atrás. Se coletamos e registramos as mutações virais toda semana, dia após dia, podemos identificar cadeias de transmissão viral quase em tempo real, saber quando o vírus chegou numa região, e de onde ele provavelmente veio. Com isso, medidas de contenção da epidemia podem ser melhor planejadas, como por exemplo fechamento de aeroportos ou rodovias por onde a epidemia poderia se disseminar.
+Usando as mutações genéticas que os vírus tem, assim como suas datas e locais de coleta, podemos não só agrupá-los numa árvore filogenética, como também podemos estimar onde e quando os ancestrais desses vírus provavelmente estavam dias, meses ou anos atrás. Se coletamos e registramos as mutações virais toda semana, dia após dia, podemos identificar cadeias de transmissão viral quase em tempo real, saber quando o vírus chegou numa região, e de onde ele provavelmente veio. Com isso, medidas de contenção da epidemia podem ser melhor planejadas, como por exemplo fechamento de aeroportos ou rodovias por onde a epidemia poderia se disseminar.
 
 
 ✹ **Em poucas palavras...**<br />
