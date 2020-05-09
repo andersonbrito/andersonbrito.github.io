@@ -33,7 +33,7 @@ feature_row4:
   - image_path: /assets/images/phylogenetics.png
     title: "Phylogenetics and Molecular Evolution"
     alt: "Phylogenetics and Molecular Evolution"
-    excerpt: "By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I have been applying multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliations (co-phylogenetic analysis); and reconstruct ancestral sequences."
+    excerpt: "By using methods of phylogenetic inference one can study how changes in sequence composition shape the evolutionary history and define the biological relationships of organisms. I am passionate by evolutionary biology, and I have been studying Molecular Evolution and Phylogenetics for at least 7 years. In my PhD research I applied multiple phylogenetic methods to: infer phylogenies (using Maximum Likelihood and Bayesian analysis); perform tree reconciliations (co-phylogenetic analysis); and reconstruct ancestral sequences."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
@@ -51,7 +51,7 @@ feature_row6:
   - image_path: /assets/images/structuralbiology.png
     title: "Structural Biology"
     alt: "Structural Biology"
-    excerpt: "Given that protein structures are better conserved than amino acid sequences, homology modelling plays a key role at generating hypothesis about protein function. Using protein structures from extensively studied organisms, I have been appling homology modelling to generate tridimensional structures of motifs, protein chains, complexes, and protein-protein interactions (PPIs) of less studied/neglected organisms. Combining structural biology, phylogenetics and genomics, in my PhD I've been studying the evolution of virus-host PPIs."
+    excerpt: "Given that protein structures are better conserved than amino acid sequences, homology modelling plays a key role at generating hypothesis about protein function. Using protein structures from extensively studied organisms, I have been appling homology modelling to generate tridimensional structures of motifs, protein chains, complexes, and protein-protein interactions (PPIs) of less studied/neglected organisms. Combining structural biology, phylogenetics and genomics, in my PhD I studied the evolution of virus-host PPIs."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
