@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [Freepik](https://www.freepik.com/)"
 
 intro: 
-  - excerpt: 'Em construção.'
+  - excerpt: 'Besides my research, I have been involved in a series of volunteering activities of political, cultural, social and scientific characters.'
 
 ---
 

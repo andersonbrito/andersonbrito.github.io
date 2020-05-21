@@ -49,9 +49,17 @@ feature_row5:
 
 feature_row6:
   - image_path: /assets/images/structuralbiology.png
-    title: "Structural Biology"
-    alt: "Structural Biology"
-    excerpt: "Given that protein structures are better conserved than amino acid sequences, homology modelling plays a key role at generating hypothesis about protein function. Using protein structures from extensively studied organisms, I have been appling homology modelling to generate tridimensional structures of motifs, protein chains, complexes, and protein-protein interactions (PPIs) of less studied/neglected organisms. Combining structural biology, phylogenetics and genomics, in my PhD I studied the evolution of virus-host PPIs."
+    title: "Epidemiology"
+    alt: "Epidemiology"
+    excerpt: "."
+
+
+
+#feature_row6:
+#  - image_path: /assets/images/structuralbiology.png
+#    title: "Structural Biology"
+#    alt: "Structural Biology"
+#    excerpt: "Given that protein structures are better conserved than amino acid sequences, homology modelling plays a key role at generating hypothesis about protein function. Using protein structures from extensively studied organisms, I have been appling homology modelling to generate tridimensional structures of motifs, protein chains, complexes, and protein-protein interactions (PPIs) of less studied/neglected organisms. Combining structural biology, phylogenetics and genomics, in my PhD I studied the evolution of virus-host PPIs."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
