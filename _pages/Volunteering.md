@@ -16,7 +16,7 @@ feature_row2:
   - image_path: /assets/images/ypa.png
     title: "Yale Postdoctoral Association"
     alt: "Yale Postdoctoral Association"
-    excerpt: "Since July 2019 I am a board member at the Yale Postdoctoral Association (YPA), an association composed of Yale Postdocs from across disciplines. The YPA aims to create a broad sense of community and engagement among postdocs at Yale. I am one of the Communications Coordinators, working together with a team of postdocs managing the communication platforms of this association, which includes: [webpage](https://ypa.yale.edu); [Facebook](https://www.facebook.com/YalePostdocAssociation/); [Twitter] (https://twitter.com/YalePostdocAsso); and [Newsletter](http://eepurl.com/gIq-E1)."
+    excerpt: "Since July 2019 I am a board member at the Yale Postdoctoral Association (YPA), an association composed of Yale Postdocs from across disciplines. The YPA aims to create a broad sense of community and engagement among postdocs at Yale. I am one of the Communications Coordinators, working together with a team of postdocs managing the communication platforms of this association, which includes: [webpage](https://ypa.yale.edu); [Facebook](https://www.facebook.com/YalePostdocAssociation/); [Twitter](https://twitter.com/YalePostdocAsso); and [Newsletter](http://eepurl.com/gIq-E1)."
 
 feature_row3:
   - image_path: /assets/images/toastmasters.png
