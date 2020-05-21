@@ -42,15 +42,15 @@ feature_row5:
   - image_path: /assets/images/genomics.png
     title: "Genomics"
     alt: "Genomics"
-    excerpt: "As the sequencing costs drop, the amount of data of a sequecing project  requires a combination of multiple approaches to provide meaning to the fragments of DNA/RNA sequences. Among such approaches are sequence alignment and assembly, comparative genomics, annotation and data visualization. Throughout my MSc research I was in charge of a high-throughput sequencing project generating 17 distinct genomes of a large dsDNA virus species (baculovirus, ~130,000 bp each). I carried out the experiments and performed the genome assemblies, annotations and further analyses."
+    excerpt: "As the sequencing costs drop, the amount of data of a sequecing project  requires a combination of multiple approaches to provide meaning to the fragments of DNA/RNA sequences. Among such approaches are sequence alignment and assembly, comparative genomics, annotation and data visualization. During my MSc research I was in charge of a high-throughput sequencing project generating 17 distinct genomes of a large dsDNA virus species (baculovirus, ~130,000 bp each). I carried out the experiments and performed the genome assemblies, annotations and further analyses."
 #    url: "/_pages/Publications/"
 #    btn_label: "Read More"
 #    btn_class: "btn--inverse"
 
 feature_row6:
   - image_path: /assets/images/epidemiology.png
-    title: "Genomic Epidemiology"
-    alt: "Genomic Epidemiology"
+    title: "Epidemiology"
+    alt: "Epidemiology"
     excerpt: "Preventing and controling infectious diseases requires knowing their distribution and determinants. With the drop in sequencing costs, the use of genomics to learn how, where and when viral outbreaks take place has become common. In my Postdoc at the [Yale School of Public Health](https://medicine.yale.edu/profile/anderson_brito/) I study viral outbreaks using genetic, geographic and epidemiologic data. The main focus of my research has been on arboviruses like dengue, Zika, and West Nile virus, and more recently on coronaviruses, studying the epidemiology of the causative agent of COVID-19, the virus SARS-CoV-2."
 
 
