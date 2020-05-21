@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/research.png
   caption: "Photo credit: [kjpargeter](https://www.freepik.com/kjpargeter)"
 intro: 
-  - excerpt: 'Find below more about my research interests, which include: Bioinformatics; Virology; Molecular Evolution; Genomics; and Structural Biology.'
+  - excerpt: 'Find below more about my research interests, which include: Bioinformatics; Virology; Molecular Evolution; Genomics; and Epidemiology.'
 
 feature_row2:
   - image_path: /assets/images/bioinformatics.png
@@ -48,14 +48,13 @@ feature_row5:
 #    btn_class: "btn--inverse"
 
 feature_row6:
-  - image_path: /assets/images/structuralbiology.png
-    title: "Epidemiology"
-    alt: "Epidemiology"
-    excerpt: "."
+  - image_path: /assets/images/epidemiology.png
+    title: "Genomic Epidemiology"
+    alt: "Genomic Epidemiology"
+    excerpt: "Preventing and controling infectious diseases requires knowing their distribution and determinants. With the drop in sequencing costs, the use of genomics to learn how, where and when viral outbreaks take place has become common. In my Postdoc at the [Yale School of Public Health](https://medicine.yale.edu/profile/anderson_brito/) I study viral outbreaks using genetic, geographic and epidemiologic data. The main focus of my research has been on arboviruses like dengue, Zika, and West Nile virus, and more recently on coronaviruses, studying the epidemiology of the causative agent of COVID-19, the virus SARS-CoV-2."
 
 
-
-#feature_row6:
+#feature_row7:
 #  - image_path: /assets/images/structuralbiology.png
 #    title: "Structural Biology"
 #    alt: "Structural Biology"
