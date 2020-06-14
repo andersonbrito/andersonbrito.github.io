@@ -15,7 +15,7 @@ Circulam nas redes sociais (especialmente no WhatsApp) muitos áudios, vídeos, 
 
 **1.** Se o material **NÃO** tem link para um site, **NÃO** compartilhe.<br>
 **2.** Se você **NÃO** sabe quem criou o material, **NÃO** compartilhe.<br>
-**3.** Se você **NÃO** sabe a origem da informação, **NÃO** compartilhe.<br>
+**3.** Se você **NÃO** sabe se a informação é verdadeira, **NÃO** compartilhe.<br>
 
 ✹ **Quer saber se o material que te enviaram é falso?** ⁉️<br>
 A Fundação Oswaldo Cruz reúne no site abaixo uma lista de informações falsas que estão circulando no WhatsApp e outras redes sociais
