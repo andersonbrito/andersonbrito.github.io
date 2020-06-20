@@ -5,7 +5,7 @@ permalink: /_posts/mitos/
 date: 2020-06-20
 ---
 
-<a href="https://bit.ly/COVID-mitos"><img src="/assets/images/mitoseverdades.png" width="700">
+<a href="https://andersonbrito.github.io/_posts/mitos/"><img src="/assets/images/mitoseverdades.png" width="700">
 
 No dia 16 de Junho gravei um podcast sobre mitos e verdades sobre a pandemia do novo coronavírus. O áudio está disponível no Spotify: <https://bit.ly/COVID-mitos><br>
 
