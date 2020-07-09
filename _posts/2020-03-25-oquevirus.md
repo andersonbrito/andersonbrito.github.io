@@ -26,7 +26,7 @@ O coronavírus está principalmente nas pessoas infectadas. Quantos estas tossem
 → Se possível, \*evite sair\* de casa sem necessidade. Entenda por que isso é importante neste link <https://bit.ly/COVID-distanciamento><br />
 → Se tiver que sair, mantenha distância de pelo menos \*2 metros\* de outras pessoas<br />
 → Voltando para casa, \*lave bem as mãos\* com água e sabão, logo ao entrar. Álcool gel é útil para quando você estiver fora de casa, tocando em objetos de uso comum (corrimão de escada, barra de apoio do ônibus, carrinho de compras, etc).<br />
-→ Use máscara se tiver que sair de casa, ou se estiver cuidando de uma pessoa com COVID-19 em casa (saiba mais: https://bit.ly/COVID-cuidados). \*Não use luvas\*, elas passam falsa sensação de segurança: apenas lave as mãos, e evite tocar o seu rosto. O vírus não é capaz de entrar pelas mãos.<br />
+→ Use máscara se tiver que sair de casa, ou se estiver cuidando de uma pessoa com COVID-19 em casa (saiba mais: <https://bit.ly/COVID-cuidados>). \*Não use luvas\*, elas passam falsa sensação de segurança: apenas lave as mãos, e evite tocar o seu rosto. O vírus não é capaz de entrar pelas mãos.<br />
 → Sabe aqueles produtos do supermercado que todos tocam? Considere lavá-los com água e sabão, se possível.
 
 ✹ **Se estou em casa, estou seguro?**<br />
