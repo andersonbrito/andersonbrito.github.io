@@ -25,15 +25,15 @@ O coronavírus está principalmente nas pessoas infectadas. Quantos estas tossem
 ✹ **O que fazer para se proteger?**<br />
 → Se possível, \*evite sair\* de casa sem necessidade. Entenda por que isso é importante neste link <https://bit.ly/COVID-distanciamento><br />
 → Se tiver que sair, mantenha distância de pelo menos \*2 metros\* de outras pessoas<br />
-→ Voltando para casa, \*lave bem as mãos\* com água e sabão, logo ao entrar. Só use álcool gel se você estiver fora de casa, tocando em objetos de uso comum (corrimão de escada, barra de apoio do ônibus, carrinho de compras, etc).<br />
-→ Use máscara se estiver com sintomas, se tiver que sair de casa, ou se estiver cuidando de uma pessoa vulnerável a infecções. \*Não use luvas\*, elas passam falsa impressão de segurança: apenas lave as mãos, e evite tocar o seu rosto.<br />
+→ Voltando para casa, \*lave bem as mãos\* com água e sabão, logo ao entrar. Álcool gel é útil para quando você estiver fora de casa, tocando em objetos de uso comum (corrimão de escada, barra de apoio do ônibus, carrinho de compras, etc).<br />
+→ Use máscara se tiver que sair de casa, ou se estiver cuidando de uma pessoa com COVID-19 em casa (saiba mais: https://bit.ly/COVID-cuidados). \*Não use luvas\*, elas passam falsa sensação de segurança: apenas lave as mãos, e evite tocar o seu rosto. O vírus não é capaz de entrar pelas mãos.<br />
 → Sabe aqueles produtos do supermercado que todos tocam? Considere lavá-los com água e sabão, se possível.
 
 ✹ **Se estou em casa, estou seguro?**<br />
-Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*: ele não vai entrar pela sua janela, nem por debaixo da porta. Apenas pessoas e objetos contaminados trazem o vírus para dentro de casa.
+Se ninguém na casa está infectado, sim. O coronavírus \*não anda, nem voa\*: ele não vai entrar voando em sua casa, nem por debaixo da porta. Apenas pessoas e objetos contaminados trazem o vírus para dentro de casa.
 
 ✹ **Em poucas palavras...**<br />
-Não podemos ver os coronavírus, mas sabemos onde eles estão: em pessoas e objetos contaminados. Se você está em casa, ninguém está infectado nem trazendo objetos contaminados para dentro, você está seguro. Em casa, pratique ações básicas de higiene.<br />
+Não podemos ver os coronavírus, mas sabemos onde eles estão: em pessoas e objetos contaminados. Se você está em casa, ninguém está infectado, nem trazendo objetos contaminados para casa, você está seguro(a). Em casa, pratique ações básicas de higiene.<br />
 <br />
 
 ***
