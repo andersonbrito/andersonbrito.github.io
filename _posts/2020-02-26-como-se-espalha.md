@@ -12,19 +12,19 @@ Abaixo você encontra informações sobre a doença COVID-19, e como conter o es
 
 ## Compartilhe o texto e a imagem abaixo no WhatsApp
 
-O espalhamento global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter o espalhamento. 
+A disseminação global do cononavírus é uma realidade. O termo "pandemia", carregado de estereótipos, não tem relação direta com a severidade da doença: indica apenas que a epidemia viral já se espalha em escala mundial. O momento exige calma e preparo para conter a epidemia. 
 
 ✹ **Como é a doença causada pelo novo coronavírus?**<br>
-A COVID-19 é uma doença respiratória, a qual tem afetado especialmente pessoas acima de 30 anos, e tem causado a morte principalmente de idosos (60+ anos). A maioria dos casos tem sido leve ou severo, e apenas casos críticos tem levado à morte (aproximadamente 2%).
+A COVID-19 é uma doença respiratória, a qual tem afetado especialmente pessoas acima de 30 anos, e tem causado a morte principalmente de idosos (60+ anos). A maioria dos casos tem sido leve ou moderado, e apenas casos críticos têm levado à morte (aproximadamente 1%).
 
 ✹ **Quais são os principais sintomas da doença?**<br>
-Os principais sintomas da COVID são: Febre; Tosse; e Falta de ar. Estes sintomas podem surgir entre 2 e 14 dias após a exposição ao vírus SARS-CoV-2. Em caso de sintomas leves, recomenda-se que a pessoa permaneça em casa, para evitar transmissões a pessoas mais vulneráveis.
+Os principais sintomas da COVID são: Febre; Tosse; Falta de ar; e perda do olfato (não sentir cheiros). Estes sintomas podem surgir entre 2 e 14 dias após a exposição ao vírus SARS-CoV-2. Em caso de sintomas leves, recomenda-se que a pessoa permaneça em casa, isolada de outras pessoas por 14 dias, para evitar transmissões a pessoas mais vulneráveis.
 
 ✹ **Como a doença é transmitida?**<br>
-O vírus da COVID19 é transmitido por meio de gotículas expelidas quando a pessoa infectada espirra ou tosse. As gotículas espalham-se por poucos metros (2-3 metros), eventualmente encontrando a boca/nariz de outras pessoas, e dando início a novas infecções. Outra forma de contágio é por meio de objetos contaminados por gotículas contendo vírus, tais como maçanetas, corrimãos, interruptores de luz, superfícies de mesas, portas, bancos etc. Evite tocar seus olhos, nariz e boca com as mãos sujas.
+O vírus da COVID19 é transmitido por meio de gotículas expelidas quando a pessoa infectada espirra, tosse ou fala. As gotículas espalham-se por poucos metros (2-3 metros), eventualmente encontrando a boca/nariz de outras pessoas, e dando início a novas infecções. Outra forma de contágio é por meio de objetos contaminados por gotículas contendo vírus, tais como maçanetas, corrimãos, interruptores de luz, superfícies de mesas, portas, bancos etc. Evite tocar seus olhos, nariz e boca com as mãos sujas.
 
 ✹ **Como conter a epidemia?**<br>
-Para evitar o espalhamento do vírus da COVID-19: cubra a boca ao tossir ou espirrar; evite contato com pessoas com sintomas; lave as mãos com sabão sempre que tocar objetos contaminados. O uso de máscaras é indicado em especial para pessoas com sintomas de infecção respiratória.
+Para evitar a disseminação do vírus da COVID-19: fique em casa, se puder; use máscara; evite lugares fechados e lotados; lave as mãos sempre que tocar objetos possivelmente contaminados (água e sabão são suficientes).
 
 ✹ **Compartilhe apenas informações confiáveis**<br>
 
