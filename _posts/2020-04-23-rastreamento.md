@@ -7,7 +7,7 @@ date: 2020-04-23
 
 <a href="https://bit.ly/COVID-rastreamento"><img src="/assets/images/rastreamento.png" width="700">
 
-Sou virologista, com doutorado em Biologia Computacional: uso programas de computador para estudar como os vírus mudam ao longo do tempo, ou seja, como eles evoluem por meio de mutações. Por meio destas mutações, estudo como os vírus se espalham entre cidades, estados, países e continentes. Atualmente tenho usado informações de mutações nos genes dos coronavírus para rastrear onde esses vírus estão, e por onde se espalham a medida que a pandemia avança aqui nos Estados Unidos. Faço isso usando o [nextstrain](https://nextstrain.org/ncov/global?animate=2019-12-08,2020-04-24,0,0,15000&p=grid), um conjunto de ferramentas computacionais utilizado para rastrear o coronavírus mundialmente.
+Sou virologista, com doutorado em Biologia Computacional: uso programas de computador para estudar como os vírus mudam ao longo do tempo, ou seja, como eles evoluem por meio de mutações. Usando informações sobre mutações, estudo como os vírus se espalham entre cidades, estados, países e continentes. Atualmente tenho usado informações de mutações nos genes dos coronavírus para rastrear onde esses vírus estão, e por onde se espalham a medida que a pandemia avança aqui nos Estados Unidos. Faço isso usando o [nextstrain](https://nextstrain.org/ncov/global?animate=2019-12-08,2020-04-24,0,0,15000&p=grid), um conjunto de ferramentas computacionais utilizado para rastrear o coronavírus mundialmente.
 
 Este texto foi inspirado pelas ilustrações publicadas [neste artigo do Finantial Times](https://www.ft.com/content/d34097f0-e2c3-41a7-b3c7-9c1eb0f9df92), que foram traduzidas para o Português nas imagens abaixo.
 
@@ -19,7 +19,7 @@ Cada vírus tem um conjunto de genes (um genoma) gravado no material genético d
 <img src="/assets/images/rastreamento-parte2.png">
 
 ✹ **De que forma rastrear os vírus ajuda a combatê-lo?**<br />
-Usando as mutações genéticas que os vírus tem, assim como suas datas e locais de coleta, podemos não só agrupá-los numa árvore filogenética, como também podemos estimar onde e quando os ancestrais desses vírus provavelmente estavam dias, meses ou anos atrás. Se coletamos e registramos as mutações virais toda semana, dia após dia, podemos identificar cadeias de transmissão viral quase em tempo real, saber quando o vírus chegou numa região, e de onde ele provavelmente veio. Com isso, medidas de contenção da epidemia podem ser melhor planejadas, como por exemplo fechamento de aeroportos ou rodovias por onde a epidemia poderia se disseminar.
+Usando as mutações genéticas que os vírus tem, assim como suas datas e locais de coleta, podemos não só agrupá-los numa árvore filogenética, como também podemos estimar onde e quando os ancestrais desses vírus provavelmente estavam dias, meses ou anos atrás. Se coletamos e registramos as mutações virais toda semana, dia após dia, podemos identificar cadeias de transmissão viral quase em tempo real, saber quando o vírus chegou numa região, e de onde ele provavelmente veio. Com isso, medidas de contenção da epidemia podem ser melhor planejadas, como por exemplo fechamento de fronteiras, aeroportos ou rodovias por onde a epidemia poderia se disseminar.
 
 
 ✹ **Em poucas palavras...**<br />
