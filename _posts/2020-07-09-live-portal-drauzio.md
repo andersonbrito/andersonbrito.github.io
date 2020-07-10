@@ -12,6 +12,6 @@ No dia 09 de Julho participei de uma live do [Portal Drauzio Varella](https://dr
 Conversei com a Mariana Varella sobre:
 
 - 🦠 O que são vírus?
-- 🗣 As formas de transmissão do coronavírus
+- 🗣 Formas de transmissão do coronavírus
 - 😷 Medidas de prevenção a infecções
 - ✅ Ações coordenadas, necessárias para controle da epidemia
