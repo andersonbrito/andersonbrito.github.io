@@ -2,7 +2,7 @@
 title: "Live sobre COVID-19 no Portal Drauzio Varella"
 layout: single
 permalink: /_posts/live/
-date: 2020-06-20
+date: 2020-07-09
 ---
 
 <a href="https://andersonbrito.github.io/_posts/live/"><img src="/assets/images/live.jpg" width="700">
