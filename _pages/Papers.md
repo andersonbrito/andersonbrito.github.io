@@ -9,9 +9,18 @@ header:
   overlay_image: /assets/images/articles.png
 
 intro: 
-  - excerpt: 'List of published papers and preprints.'
+  - excerpt: 'Selected papers and preprints.'
 
 feature_row:
+  - image_path: /assets/images/assay.png
+    excerpt: "Vogels CB, **Brito AF**, Wyllie AL, Fauver JR, Ott IM, Kalinich CC, Petrone ME, Casanovas-Massana A, Muenker MC, Moore AJ, Klein J. et al. Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets. _Nature Microbiology_. 2020 Jul 10:1-7."
+  - image_path: /assets/images/placenta.png
+    excerpt: "Hosier H, Farhadian SF, Morotti RA, Deshmukh U, Lu-Culligan A, Campbell KH, Yasumoto Y, Vogels CB, Casanovas-Massana A, Vijayakumar P, Geng B, Odio CD, Fournier J, **Brito AF** et al. SARS-CoV-2 infection of the placenta. _J Clin Invest_. 2020 Jun 23:139569"
+  - image_path: /assets/images/coast2coast.png
+    excerpt: "Fauver JR, Petrone ME, Hodcroft EB, Shioda K, Ehrlich HY, Watts AG, Vogels CB, **Brito AF**, et al. Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the United States. _Cell_. 2020 May 7."
+
+
+feature_row2:
   - image_path: /assets/images/repertoire.png
     excerpt: "**Brito AF** and Pinney JW. [The evolution of protein domain repertoires: shedding light on the origins of herpesviruses](https://academic.oup.com/ve/article/6/1/veaa001/5726995). _Virus Evolution_ 2020."
   - image_path: /assets/images/westnilevirus20.png
@@ -20,7 +29,7 @@ feature_row:
     excerpt: "**Brito AF** and Pinney JW. [The structural evolution of host-pathogen protein interactions: an integrative approach](https://www.biorxiv.org/content/10.1101/581637v1). _bioRxiv Preprint_ 2019."
 
 
-feature_row2:
+feature_row3:
   - image_path: /assets/images/reconciliation2018.png
     excerpt: "**Brito AF** and Pinney JW. [Time-calibrated tree reconciliations reveal frequent losses, intrahost speciations, and host switches in the evolution of herpesviruses](https://www.biorxiv.org/content/early/2018/09/14/418111). _bioRxiv Preprint_ 2018."
   - image_path: /assets/images/erelgv2018.png
@@ -30,7 +39,7 @@ Ribeiro BM. [Genome-wide diversity in temporal and regional populations of the b
     excerpt: "**Brito AF** and Pinney JW. [Protein–Protein Interactions in Virus–Host Systems](http://journal.frontiersin.org/article/10.3389/fmicb.2017.01557/full). _Frontier in Microbiology_ 2017. 8:1557."
 
 
-feature_row3:
+feature_row4:
   - image_path: /assets/images/agmnpv2015.png
     excerpt: "**Brito AF**, Braconi CT, Weidmann M, Dilcher M, Alves JM, Gruber A, de Andrade Zanotto PM. [The pangenome of the Anticarsia gemmatalis multiple nucleopolyhedrovirus (AgMNPV)](http://gbe.oxfordjournals.org/content/8/1/94.short). _Genome biology and evolution_. 2016 Jan 1;8(1):94-108."
   - image_path: /assets/images/denv2013.png
@@ -45,3 +54,4 @@ feature_row3:
 {% include feature_row %}
 {% include feature_row id="feature_row2" %}
 {% include feature_row id="feature_row3" %}
+{% include feature_row id="feature_row4" %}

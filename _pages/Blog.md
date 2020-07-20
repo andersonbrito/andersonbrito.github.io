@@ -9,7 +9,7 @@ header:
   caption: "Photo credit: [Freepik](https://www.freepik.com/)"
 
 intro: 
-  - excerpt: ''
+  - excerpt: 'Comunicação científica sobre a COVID-19.'
 
 ---
 
