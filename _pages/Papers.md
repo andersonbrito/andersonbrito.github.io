@@ -13,11 +13,11 @@ intro:
 
 feature_row:
   - image_path: /assets/images/assay.png
-    excerpt: "Vogels CB, **Brito AF**, Wyllie AL, Fauver JR, Ott IM, Kalinich CC, Petrone ME, Casanovas-Massana A, Muenker MC, Moore AJ, Klein J. et al. Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets. _Nature Microbiology_. 2020 Jul 10:1-7."
+    excerpt: "Vogels CB, **Brito AF**, Wyllie AL, Fauver JR, Ott IM, Kalinich CC, Petrone ME, Casanovas-Massana A, Muenker MC, Moore AJ, Klein J. et al. [Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets.](https://www.nature.com/articles/s41564-020-0761-6) _Nature Microbiology_. 2020 Jul 10:1-7."
   - image_path: /assets/images/placenta.png
-    excerpt: "Hosier H, Farhadian SF, Morotti RA, Deshmukh U, Lu-Culligan A, Campbell KH, Yasumoto Y, Vogels CB, Casanovas-Massana A, Vijayakumar P, Geng B, Odio CD, Fournier J, **Brito AF** et al. SARS-CoV-2 infection of the placenta. _J Clin Invest_. 2020 Jun 23:139569"
+    excerpt: "Hosier H, Farhadian SF, Morotti RA, Deshmukh U, Lu-Culligan A, Campbell KH, Yasumoto Y, Vogels CB, Casanovas-Massana A, Vijayakumar P, Geng B, Odio CD, Fournier J, **Brito AF** et al. [SARS-CoV-2 infection of the placenta.](https://www.jci.org/articles/view/139569) _J Clin Invest_. 2020 Jun 23:139569"
   - image_path: /assets/images/coast2coast.png
-    excerpt: "Fauver JR, Petrone ME, Hodcroft EB, Shioda K, Ehrlich HY, Watts AG, Vogels CB, **Brito AF**, et al. Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the United States. _Cell_. 2020 May 7."
+    excerpt: "Fauver JR, Petrone ME, Hodcroft EB, Shioda K, Ehrlich HY, Watts AG, Vogels CB, **Brito AF**, et al. [Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the United States.](https://www.sciencedirect.com/science/article/pii/S0092867420304840) _Cell_. 2020 May 7."
 
 
 feature_row2:
