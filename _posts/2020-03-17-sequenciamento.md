@@ -12,17 +12,18 @@ Em Março de 2020 participei de um podcast sobre sobre virologia, sequenciamento
 <iframe src="https://open.spotify.com/embed-podcast/episode/1qI58oyecYw1vnhN6QJwaI" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
 
-Participantes:
-- Camila Malta Romano, pesquisadora do Hospital das Clinicas e do Instituto de Medicina Tropical da USP
-- Átila Iamarino, doutor em microbiologia e divulgador científico
-- Anderson Brito, doutor em biologia computacional e pesquisador em Yale
 
-Entrevistadores:
+**Participantes**:
+- Camila Malta Romano - pesquisadora do Hospital das Clinicas e do Instituto de Medicina Tropical da USP
+- Átila Iamarino - doutor em microbiologia e divulgador científico
+- Anderson Brito - doutor em biologia computacional e pesquisador em Yale
+
+**Entrevistadores**:
 - Paulo Silveira
 - Maurício “Balboa” Linhares
 - Roberta Arcoverde
 
-Produção e conteúdo:
+**Produção e conteúdo**:
 
 - Alura Cursos de Tecnologia – <https://www.alura.com.br>
 - Caelum Escola de Tecnologia – <https://www.caelum.com.br/>
