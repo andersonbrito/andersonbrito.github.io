@@ -14,6 +14,8 @@ Principais tópicos:
 - 🌎 O papel da OMS
 - 💉 Vacinas
 
+<iframe src="https://open.spotify.com/embed-podcast/episode/1YYjVicbA8rmd6kFzak3Dv" width="100%" height="232" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
 Este foi um dos episódios do Podcast Biblioteco: [@biblioteco.podcast](https://www.instagram.com/p/CBojtM4D60j/?igshid=2ko3lvx6evms&fbclid=IwAR18rOdWfTwV5cUJiFuaSkFXxZAHXkRzT9HI36sImclznI3Jho1UIrONtC8)<br>
 Contato dos produtores: bibliotecopodcast@gmail.com
 

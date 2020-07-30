@@ -9,7 +9,7 @@ date: 2020-07-17
 
 In this podcast, I talked with Dr Kyle Tretina, from Meenta Inc., about my research on virology, and the commonalities between the COVID-19 pandemic responses of the U.S. 🇺🇸 and Brazil 🇧🇷. This episode is available on [Spotify](https://open.spotify.com/episode/35upRr13pMVX9iKMcTE8Xz?si=1ogvTGXeToyATbuIto8Eyw) (player below):
 
-<br />Main topics:
+Main topics:
 - My background as a virologist
 - My research at the Yale School of Public Health
 - Political, Social and Cultural reason that made Brazil and the U.S. epicenters of the COVID-19 pandemic
