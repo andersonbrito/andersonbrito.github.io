@@ -5,7 +5,7 @@ permalink: /_posts/Covid-US-BR/
 date: 2020-07-17
 ---
 
-<a href="https://andersonbrito.github.io/_posts/mitos/"><img src="/assets/images/mitoseverdades.png" width="700">
+<a href="https://andersonbrito.github.io/_posts/Covid-US-BR/"><img src="/assets/images/meenta-cover.png" width="700">
 
 In this podcast, I talked with Dr Kyle Tretina, from Meenta Inc., about my research on virology, and the commonalities between the COVID-19 pandemic responses of the U.S. 🇺🇸 and Brazil 🇧🇷. This episode is available on Spotify:
 
