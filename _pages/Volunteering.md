@@ -40,13 +40,13 @@ feature_row6:
   - image_path: /assets/images/icbrazilforum.png
     title: "Imperial College Brazil Forum"
     alt: "Imperial College Brazil Forum"
-    excerpt: 'Since 2017 I am a student representative at the [Imperial College Brazil Forum](http://www.imperial.ac.uk/brazil-forum/), a network of Brazilian Academics, Students and Alumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers/institutions interested on establishing connections with Brazil. As a student representative I have been organizing events of interest to students not only from Imperial, but from other universities in London.'
+    excerpt: 'From 2017-2018 I was a student representative at the [Imperial College Brazil Forum](http://www.imperial.ac.uk/brazil-forum/), a network of Brazilian Academics, Students and Alumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers/institutions interested on establishing connections with Brazil. As a student representative I have been organizing events of interest to students not only from Imperial, but from other universities in London.'
 
 feature_row7:
   - image_path: /assets/images/outreach.png
     title: "Outreach"
     alt: "Outreach"
-    excerpt: "I have been involved in Science Communication activities both to kids and adults. I'm a volunteer at [Native Scientist](https://www.nativescientist.com/about), an NGO that promotes Science outreach to kids from migrant communities, aiming to inspire ethnic minority pupils to pursue higher education. I have also been taking part as a speaker and as a regular participant at [PubhD](https://pubhd.wordpress.com/pubhd-locations/), an initiave that provides PhD students an opportunity to talk about their research in an informal atmosphere (a Pub), to a diverse audience, in a jargon-free style."
+    excerpt: "During my PhD in London I was involved in Science Communication activities both to kids and adults. I worked as a volunteer at [Native Scientist](https://www.nativescientist.com/about), an NGO that promotes Science outreach to kids from migrant communities, aiming to inspire ethnic minority pupils to pursue higher education. I took part as a speaker and as an attendee at [PubhD](https://pubhd.wordpress.com/pubhd-locations/), an initiave that provides PhD students an opportunity to talk about their research in an informal atmosphere (a Pub), to a diverse audience, in a jargon-free style."
 
 ---
 
