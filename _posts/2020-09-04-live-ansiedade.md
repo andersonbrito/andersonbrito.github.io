@@ -1,5 +1,5 @@
 ---
-title: "Live sobre Ansiedade em tempos de pandemia"
+title: "Live sobre ansiedade em tempos de pandemia"
 layout: single
 permalink: /_posts/live-ansiedade/
 date: 2020-09-04
