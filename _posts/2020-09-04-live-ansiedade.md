@@ -13,4 +13,4 @@ Conversamos sobre temas gerais ligados ao coronavírus, e informações que ajud
 
 - 🦠 O que são os coronavírus, e como são transmitidos?
 - 😷 Cenários que favorecem ou dificultam a transmissão
-- 💪 Formas positivas de lidar com o isolamento
+- 💭 Maneiras positivas de lidar com os riscos da pandemia
