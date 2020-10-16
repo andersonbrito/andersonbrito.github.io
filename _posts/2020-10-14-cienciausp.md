@@ -5,7 +5,7 @@ permalink: /_posts/licoes-sarscov2/
 date: 2020-09-15
 ---
 
-<a href="https://andersonbrito.github.io/_posts/ciencia-usp/"><img src="/assets/images/cover-licoes.jpg" width="700">
+<a href="https://andersonbrito.github.io/_posts/licoes-sarscov2/"><img src="/assets/images/cover-licoes.jpg" width="700">
 
 Em 15 de Setembro de 2020 participei de uma transmissão ao vivo da [Rede Análise COVID-19](https://redeaanalisecovid.wordpress.com/). A transmissão também teve a participação do imunologista Tiago Veit, da UFRGS. Conversamos sobre as lições do SARS-CoV-2 para a virologia, e foi apresentada por membros coordenadores da Rede. O vídeo está disponível no [YouTube](https://www.youtube.com/watch?v=T2K2qJmWeOI).
 
