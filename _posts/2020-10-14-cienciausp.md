@@ -1,20 +1,21 @@
 ---
-title: "Lições do SARS-CoV-2 para a virologia do amanhã"
+title: "Vacina na reta final? O que você precisa saber"
 layout: single
-permalink: /_posts/licoes-sarscov2/
-date: 2020-09-15
+permalink: /_posts/ciencia-usp/
+date: 2020-10-14
 ---
 
-<a href="https://andersonbrito.github.io/_posts/licoes-sarscov2/"><img src="/assets/images/cover-licoes.jpg" width="700">
+<a href="https://andersonbrito.github.io/_posts/ciencia-usp/"><img src="/assets/images/cover-cienciausp.jpg" width="700">
 
-Em 15 de Setembro de 2020 participei de uma transmissão ao vivo da [Rede Análise COVID-19](https://redeaanalisecovid.wordpress.com/). A transmissão também teve a participação do imunologista Tiago Veit, da UFRGS. Conversamos sobre as lições do SARS-CoV-2 para a virologia, e foi apresentada por membros coordenadores da Rede. O vídeo está disponível no [YouTube](https://www.youtube.com/watch?v=T2K2qJmWeOI).
+Em 14 de Outubro de 2020 participei de uma transmissão ao vivo do Ciência USP, no [Canal USP](https://jornal.usp.br/ciencias/medica-e-virologista-falam-de-vacinas-que-estao-na-fase-final-e-novas-descobertas-sobre-o-coronavirus/). A conversa, mediada por Luiza Caires, também teve a participação de Denise Garrett, Médica epidemiologista e vice-diretora do Sabin Vaccine Institute. Tratamos das principais vacinas em teste, e das novas descobertas da ciência sobre o coronavírus e a COVID-19. O vídeo está disponível no [YouTube](https://youtu.be/6mgK-a-XH5o).
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/T2K2qJmWeOI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6mgK-a-XH5o?start=204" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**Participação**:
-- Tiago D. Veit,  doutor em genética e biologia molecular pela UFRGS e professor adjunto vinculado ao Departamento de Microbiologia, Imunologia e Parasitologia do Instituto de Ciências Básicas da Saúde - UFRGS.
+**Produção**:
+- Luiza Caires - [Jornal da USP](https://jornal.usp.br/author/luizacaires/)
 
-**Apresentação**
-- Mellanie Fontes-Dutra, biomédica e doutora em neurociências, coordenadora da Rede Análise COVID-19;
-- Marcelo Bragatte, biólogo e mestre em genética e biologia molecular, coordenador da Rede Análise COVID-19 e do Pint of Science Porto Alegre;
-- Amanda Gonzalez, biomédica e residente em vigilância em saúde pela Escola de Saúde Pública do RS.
+**Participação**
+- Denise Garrett, [Sabin Vaccine Institute](https://www.sabin.org/)
+
+**Produção audiovisual**:
+- George Campos
