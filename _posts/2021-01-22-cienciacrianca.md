@@ -7,7 +7,7 @@ date: 2021-01-22
 
 <a href="https://andersonbrito.github.io/_posts/variantesUKSA/"><img src="/assets/images/cover-radiosenado.png" width="700">
 
-No dia 22 de Janeiro de 2021 foi ao ar uma reportagem especial da [Rádio Senado](), que explicou por que "Ciência é coisa de criança". O programa teve a participação de Beakman, Tíbio & Perônio, Mellanie Dutra, Julia Bitencourt, entre outros cientistas. O Beakman (dublado por Flávio Dias) até conversou comigo. O áudio está disponível no [Spotify](https://open.spotify.com/episode/17LqP3EZxsB9fYEMrQJbQ2?si=Ugyt_CGJSo2FIykQwjNUEA).
+No dia 22 de Janeiro de 2021 foi ao ar uma reportagem especial da [Rádio Senado](https://www12.senado.leg.br/radio), que explicou por que "Ciência é coisa de criança". O programa teve a participação de Beakman, Tíbio & Perônio, Mellanie Dutra, Julia Bitencourt, entre outros cientistas. O Beakman (dublado por Flávio Dias) até conversou comigo. O áudio está disponível no [Spotify](https://open.spotify.com/episode/17LqP3EZxsB9fYEMrQJbQ2?si=Ugyt_CGJSo2FIykQwjNUEA).
 
 Sinopse:
 > "É possível que em nenhuma época da humanidade a ciência tenha ficado tão em evidência como nos últimos meses. E quando começa o interesse de uma pessoa pela ciência? Será que é quando somos crianças e começamos a fazer inúmeras perguntas aos “mais velhos”? Afinal, a dúvida é a base da ciência.
