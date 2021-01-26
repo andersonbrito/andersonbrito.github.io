@@ -5,7 +5,7 @@ permalink: /_posts/criancasciencia/
 date: 2021-01-22
 ---
 
-<a href="https://andersonbrito.github.io/_posts/criancasciencia/"><img src="/assets/images/cover-radiosenado.png" width="700">
+<a href="https://andersonbrito.github.io/_posts/criancasciencia/"><img src="/assets/images/cover-radiosenado.jpg" width="700">
 
 No dia 22 de Janeiro de 2021 foi ao ar uma reportagem especial da [Rádio Senado](https://www12.senado.leg.br/radio), que explicou por que "Ciência é coisa de criança". O programa teve a participação de Beakman, Tíbio & Perônio, Mellanie Dutra, Julia Bitencourt, entre outros cientistas. O Beakman (dublado por Flávio Dias) até conversou comigo. O áudio está disponível no [Spotify](https://open.spotify.com/episode/17LqP3EZxsB9fYEMrQJbQ2?si=Ugyt_CGJSo2FIykQwjNUEA).
 
