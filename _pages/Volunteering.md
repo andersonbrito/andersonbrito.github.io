@@ -16,13 +16,13 @@ feature_row2:
   - image_path: /assets/images/ypa.png
     title: "Yale Postdoctoral Association"
     alt: "Yale Postdoctoral Association"
-    excerpt: "Since July 2019 I am a board member at the Yale Postdoctoral Association (YPA), an association composed of Yale Postdocs from across disciplines. The YPA aims to create a broad sense of community and engagement among postdocs at Yale. I am one of the Communications Coordinators, working together with a team of postdocs managing the communication platforms of this association, which includes: [Webpage](https://ypa.yale.edu), [Facebook](https://www.facebook.com/YalePostdocAssociation/), [Twitter](https://twitter.com/YalePostdocAsso), and [Newsletter](http://eepurl.com/gIq-E1)."
+    excerpt: "I am one of the Co-Chairs of the Yale Postdoctoral Association (YPA), an association composed of Yale Postdocs from across disciplines. The YPA aims to create a broad sense of community and engagement among postdocs at Yale. I jointed the YPA in 2019, as a Communications Manager, and soon after I switched to a Coordinator role, working together with a team of postdocs to manage the communication platforms of this association, which includes: [Webpage](https://ypa.yale.edu), [Facebook](https://www.facebook.com/YalePostdocAssociation/), [Twitter](https://twitter.com/YalePostdocAsso), and [Newsletter](http://eepurl.com/gIq-E1)."
 
 feature_row3:
   - image_path: /assets/images/toastmasters.png
     title: "Toastmasters International"
     alt: "Toastmasters International"
-    excerpt: "I am a member of [Toastmasters International](https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
+    excerpt: "I am the Secretary of the [Greater New Haven TM club](https://www.toastmasters.org/Find-a-Club/00005436-00005436), part of  [Toastmasters International](https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
 
 feature_row4:
   - image_path: /assets/images/abepuk.png
