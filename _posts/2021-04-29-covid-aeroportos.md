@@ -10,5 +10,5 @@ date: 2021-04-29
 Em 29 de Abril de 2021 participei de uma reportagem do Jornal Nacional, a qual falou sobre a falta de controle nos aeroportos brasileiros, com o objetivo de evitar a entrada de novas variantes do SARS-CoV-2. O vídeo está disponível no site do [Jornal Nacional](https://g1.globo.com/jornal-nacional/noticia/2021/04/29/falta-de-regras-mais-rigidas-para-entrada-de-estrangeiros-pode-facilitar-chegada-de-outras-variantes.ghtml).
 
 **Produção**:
-- Roberta Giacomini
+- Roberta Giacomoni
 
