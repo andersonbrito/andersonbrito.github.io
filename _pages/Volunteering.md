@@ -19,30 +19,37 @@ feature_row2:
     excerpt: "I am one of the Co-Chairs of the Yale Postdoctoral Association (YPA), an association composed of Yale Postdocs from across disciplines. The YPA aims to create a broad sense of community and engagement among postdocs at Yale. I jointed the YPA in 2019, as a Communications Manager, and soon after I switched to a Coordinator role, working together with a team of postdocs to manage the communication platforms of this association, which includes: [Webpage](https://ypa.yale.edu), [Facebook](https://www.facebook.com/YalePostdocAssociation/), [Twitter](https://twitter.com/YalePostdocAsso), and [Newsletter](http://eepurl.com/gIq-E1)."
 
 feature_row3:
+  - image_path: /assets/images/iniciativa_proxima.png
+    title: "Iniciativa Proxima"
+    alt: "Iniciativa Proxima"
+    excerpt: "I am a mentor in the Yale program 'Iniciativa Proxima', which aims to support talented young Brazilian scientists in developing skills to pursue a career in biological and biomedical sciences, and connecting them with with outstanding researchers from around the world, leveraging the power of science and education as a driver of social change."
+
+
+feature_row4:
   - image_path: /assets/images/toastmasters.png
     title: "Toastmasters International"
     alt: "Toastmasters International"
     excerpt: "I am the Secretary of the [Greater New Haven TM club](https://www.toastmasters.org/Find-a-Club/00005436-00005436), part of  [Toastmasters International](https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
 
-feature_row4:
+feature_row5:
   - image_path: /assets/images/abepuk.png
     title: "ABEP-UK"
     alt: "ABEP-UK"
     excerpt: "I was the Executive Director 2016-2017 of the [ABEP-UK](https://abep.org.uk/quem-somos/diretorias-da-abep/2010-2020-2/) (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led organization acting nationwide in the UK since in 1980. Its mission is to represent and connect Brazilian Students and Researchers. At ABEP-UK I had a chance to represent its members in oficial occasions at embassies and academic institutions, I coordinated a [student survey](https://abepuk.files.wordpress.com/2017/01/relatorio-abep-uk-normas-capes-cnpq2.pdf) involving 200+ participants, and organized an [international conference](https://abep.org.uk/conference2017/) in 2017."
 
-feature_row5:
+feature_row6:
   - image_path: /assets/images/latimperial.png
     title: "Latin American Society"
     alt: "Latin American Society"
     excerpt: "In 2016-2017 I was the Vice-President of the [Imperial College Latin American Society](https://www.imperialcollegeunion.org/activities/a-to-z/latin-american) (Lat-Imperial), a student-led association of Latin Americans at Imperial. It acts as a liaison between students and the Imperial College Administration, playing an important role networking students and academic staff, and promoting the Latin American Culture at Imperial. As a committee member I organized jointly with my colleagues a series of social meetings, informal talks, and a [symposium](https://www.union.ic.ac.uk/osc/latamsoc/symposium.html) with leading Latin American researchers in the UK."
 
-feature_row6:
+feature_row7:
   - image_path: /assets/images/icbrazilforum.png
     title: "Imperial College Brazil Forum"
     alt: "Imperial College Brazil Forum"
     excerpt: 'From 2017-2018 I was a student representative at the [Imperial College Brazil Forum](http://www.imperial.ac.uk/brazil-forum/), a network of Brazilian Academics, Students and Alumni from Imperial College. It was founded in 2011, and since then has been fostering networking, colaborations and partnerships among Brazilian and international researchers/institutions interested on establishing connections with Brazil. As a student representative I have been organizing events of interest to students not only from Imperial, but from other universities in London.'
 
-feature_row7:
+feature_row8:
   - image_path: /assets/images/outreach.png
     title: "Outreach"
     alt: "Outreach"
