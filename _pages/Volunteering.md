@@ -22,7 +22,7 @@ feature_row3:
   - image_path: /assets/images/iniciativa_proxima.png
     title: "Iniciativa Proxima"
     alt: "Iniciativa Proxima"
-    excerpt: "I am a mentor in the Yale program 'Iniciativa Proxima', which aims to support talented young Brazilian scientists in developing skills to pursue a career in biological and biomedical sciences, and connecting them with with outstanding researchers from around the world, leveraging the power of science and education as a driver of social change."
+    excerpt: "I am a mentor in '[Iniciativa Proxima](https://www.iniciativa-proxima.org/)', a Yale program which aims to support talented young Brazilian scientists in developing their skills to pursue a career in biological and biomedical sciences, and connect them with with outstanding researchers from around the world, promoting world-class training and creating an environment that fosters scientific discussions and high-quality science. By menas of these activities, Inicitiva Proxima leverages the power of science and education as a driver of social change."
 
 
 feature_row4:
