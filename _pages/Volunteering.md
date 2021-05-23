@@ -29,7 +29,7 @@ feature_row4:
   - image_path: /assets/images/toastmasters.png
     title: "Toastmasters International"
     alt: "Toastmasters International"
-    excerpt: "I am the Secretary of the [Greater New Haven TM club](https://www.toastmasters.org/Find-a-Club/00005436-00005436), part of  [Toastmasters International](https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
+    excerpt: "I am the Secretary of the [Greater New Haven TM club](https://www.toastmasters.org/Find-a-Club/00005436-00005436), from [Toastmasters International](https://www.toastmasters.org/), an organization that promotes public speaking training in a supportive learn-by-doing environment, where participants organize meetings and practice their communication skills to become confident public speakers and strong leaders. Toastmasters is present all over the world, and their activities are run by volunteers of different ages, genders, nationalities and cultural backgrounds."
 
 feature_row5:
   - image_path: /assets/images/abepuk.png
