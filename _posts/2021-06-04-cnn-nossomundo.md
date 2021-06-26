@@ -7,7 +7,7 @@ date: 2021-06-04
 
 <a href="https://andersonbrito.github.io/_posts/cnn-novomundo/"><img src="/assets/images/cover-cnn-nossomundo.png" width="700">
 
-Em 04 de Junho de 2021 participei de uma entrevista para a CNN Brasil, no programa [CNN Novo Mundo](https://www.youtube.com/watch?v=Z1EVhSsBx1s). Falei sobre a terceira onda de casos de COVID-19 no Brasil, a nova variante delta (B.1.617.2), sobre o ritmo de vacinação no país, entre outros tópicos relativos à pandemia.
+Em 04 de Junho de 2021 participei de uma entrevista para a CNN Brasil, no programa [CNN Novo Mundo](https://www.youtube.com/watch?v=Z1EVhSsBx1s). Falei sobre a terceira onda de casos de COVID-19 no Brasil, a nova variante delta (B.1.617.2), o ritmo de vacinação no país, entre outros tópicos relativos à pandemia.
 
 Uma matéria sobre essa entrevista está disponível no site da [CNN Brasil](https://www.cnnbrasil.com.br/entretenimento/2021/06/04/cnn-nosso-mundo-entrevista-o-virologista-anderson-brito), e abaixo está a entrevista na íntegra.
 
