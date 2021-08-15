@@ -11,7 +11,7 @@ Em 29 de Julho de 2021 participei de um evento organizado pela [Liga de Ciência
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Dlz3TqlmX98" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-</br>
+<br>
 **Participação**:
 - Dr. Anderson Brito - Virologista / Bioinformata na Yale School of Public Health
 - Meghie Rodrigues - Jornalista de ciência e meio ambiente, pesquisadora na Unicamp e vice-presidente da Rede Brasileira de Jornalistas e Comunicadores de Ciência
