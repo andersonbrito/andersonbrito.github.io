@@ -1,5 +1,5 @@
 ---
-title: "Como o Brasil pode enfrentar a variante delta? | Ciclo de debates CartaCapital"
+title: "Como o Brasil pode enfrentar a variante delta? - Ciclo de debates CartaCapital"
 layout: single
 permalink: /_posts/live-dialogoscapitais/
 date: 2021-08-10
