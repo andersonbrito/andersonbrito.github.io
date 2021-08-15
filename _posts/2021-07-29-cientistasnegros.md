@@ -5,7 +5,7 @@ permalink: /_posts/live-cientistasnegros/
 date: 2021-07-29
 ---
 
-<a href="https://andersonbrito.github.io/_posts/live-5chamada/"><img src="/assets/images/cover_cientistasnegros.jpg" width="700">
+<a href="https://andersonbrito.github.io/_posts/live-cientistasnegros/"><img src="/assets/images/cover_cientistasnegros.jpg" width="700">
 
 andersonfbrito_
 Em 29 de Julho de 2021 participei de um evento organizado pela [Liga de Ciência Preta Brasileira, LCPB](https://www.instagram.com/lcpbrasileira/) e pelo [Núcleo Jornalismo](https://nucleo.jor.br/). Conversamos sobre o tema “Cientistas negros: quais mudanças são necessárias para aumentar sua visibilidade nas redes e na mídia”. O vídeo está disponível no [YouTube](https://youtu.be/Dlz3TqlmX98).
