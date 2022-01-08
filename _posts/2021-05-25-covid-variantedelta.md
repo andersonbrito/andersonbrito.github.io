@@ -1,0 +1,11 @@
+---
+title: "Autoridades de saúde ainda discutem maneiras de evitar disseminação da variante delta no país"
+layout: single
+permalink: /_posts/covid-variantedelta/
+date: 2021-05-25
+
+---
+
+<a href="https://andersonbrito.github.io/_posts/XXXXX/"><img src="/assets/images/cover-jn4.png" width="700">
+
+No dia 25 de Maio de 2021 participei de reportagem do Jornal Nacional, a qual tratrou sobre medidas tomadas para evitar a disseminação da variante delta no país. O vídeo está disponível no site do [Jornal Nacional](https://g1.globo.com/jornal-nacional/noticia/2021/05/25/autoridades-de-saude-ainda-discutem-maneiras-de-evitar-disseminacao-da-variante-indiana-no-pais.ghtml).
