@@ -27,9 +27,8 @@ feature_row4:
   - image_path: /assets/images/epidemiology.png
     title: "Epidemiology"
     alt: "Epidemiology"
-    excerpt: "Preventing and controling infectious diseases requires knowing their distribution and determinants. With the drop in sequencing costs, the use of genomics to learn how, where and when viral outbreaks take place has become common. In my Postdoc at the [Yale School of Public Health](https://medicine.yale.edu/profile/anderson_brito/) I study viral outbreaks using genetic, geographic and epidemiologic data. The main focus of my research has been on arboviruses like dengue, Zika, and West Nile virus, and more recently on coronaviruses, studying the epidemiology of the causative agent of COVID-19, the virus SARS-CoV-2."
+    excerpt: "Preventing and controling infectious diseases requires knowing their distribution and determinants. With the drop in sequencing costs, the use of genomics to learn how, where and when viral outbreaks take place has become common. During my Postdoc at the Yale School of Public Health I studied viral outbreaks using genetic, geographic and epidemiologic data. The main focus of my research has been on arboviruses like dengue, Zika, and West Nile virus, and more recently on coronaviruses, studying the epidemiology of the causative agent of COVID-19, the virus SARS-CoV-2."
 
-    
 feature_row5:
   - image_path: /assets/images/phylogenetics.png
     title: "Phylogenetics and Molecular Evolution"
