@@ -35,7 +35,7 @@ feature_row5:
   - image_path: /assets/images/abepuk.png
     title: "ABEP-UK"
     alt: "ABEP-UK"
-    excerpt: "I was the Executive Director 2016-2017 of the [ABEP-UK](https://abep.org.uk/quem-somos/diretorias-da-abep/2010-2020-2/) (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led organization acting nationwide in the UK since 1980. Its mission is to represent and connect Brazilian Students and Researchers. At ABEP-UK I had a chance to represent its members in oficial events at embassies and academic institutions, I coordinated a [student survey](https://abepuk.files.wordpress.com/2017/01/relatorio-abep-uk-normas-capes-cnpq2.pdf) involving 200+ participants, and organized an [international conference](https://abep.org.uk/conference2017/) in 2017."
+    excerpt: "I was the Executive Director 2016-2017 of the [ABEP-UK](https://abep.org.uk/quem-somos/diretorias-da-abep/2010-2020-2/) (Association of Brazilian Postgraduate Students and Researchers in the United Kingdom), a volunteer-led organization acting nationwide in the UK since 1980. Its mission is to represent and connect Brazilian Students and Researchers. At ABEP-UK I had a chance to represent its members in oficial events at embassies and academic institutions, I coordinated a [student survey](https://abepuk.files.wordpress.com/2017/01/relatorio-abep-uk-normas-capes-cnpq2.pdf) involving 200+ participants, and organized an [conference](https://abep.org.uk/conference2017/) in 2017."
 
 feature_row6:
   - image_path: /assets/images/latimperial.png
