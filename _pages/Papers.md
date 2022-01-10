@@ -56,6 +56,9 @@ feature_row4:
   - image_path: /assets/images/paper_grn2013.png
     excerpt: "Oliveira JV, **Brito AF**, Braconi CT, de Melo Freire CC, Iamarino A, de Andrade Zanotto PM. [Modularity and evolutionary constraints in a baculovirus gene regulatory network](https://bmcsystbiol.biomedcentral.com/articles/10.1186/1752-0509-7-87). _BMC systems biology_. 2013 Sep 4;7(1):87."
 
+  - image_path: /assets/images/paper_reconciliation.png
+    excerpt: **Brito A.F.**, Baele, G., Nahata, K. D., Grubaugh, N. D., & Pinney, J. W. (2021). [Intrahost speciations and host switches played an important role in the evolution of herpesviruses](https://academic.oup.com/ve/article/7/1/veab025/6178017). _Virus evolution_, 7(1), veab025.
+    
 ---
 
 {% include feature_row id="intro" type="center" %}
