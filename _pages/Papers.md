@@ -13,28 +13,36 @@ intro:
 
 feature_row:
 
+  - image_path: /assets/images/paper_alpha.png
+    excerpt: Alpert, T., **Brito A.F.**, Lasek-Nesselquist, E., Rothman, J., Valesano, A. L., MacKay, M. J., ... & Grubaugh, N. D. (2021). [Early introductions and transmission of SARS-CoV-2 variant B. 1.1. 7 in the United States](https://www.sciencedirect.com/science/article/pii/S0092867421004347). _Cell_, 184(10), 2595-2604.
+
+  - image_path: /assets/images/paper_dengue.png
+    excerpt: **Brito A.F.**, Machado, L. C., Oidtman, R. J., Siconelli, M. J. L., Tran, Q. M., Fauver, J. R., ... & Grubaugh, N. D. (2021). [Lying in wait: the resurgence of dengue virus after the Zika epidemic in Brazil](https://www.nature.com/articles/s41467-021-22921-7). _Nature Communications_, 12(1), 1-13.
+
+  - image_path: /assets/images/paper_reconciliation.png
+    excerpt: **Brito A.F.**, Baele, G., Nahata, K. D., Grubaugh, N. D., & Pinney, J. W. (2021). [Intrahost speciations and host switches played an important role in the evolution of herpesviruses](https://academic.oup.com/ve/article/7/1/veab025/6178017). _Virus evolution_, 7(1), veab025.
+
+
+feature_row2:
+
   - image_path: /assets/images/paper_scicomm.png
     excerpt: Kalinich CC, Jensen CG, Neugebauer P, Petrone, ME, Peña-Hernández M, Ott IM, Wyllie AL, Alpert T, Vogels CB, Fauver JR, Grubaugh ND, **Brito AF** (2020). [Real-time public health communication of local SARS-CoV-2 genomic epidemiology](https://doi.org/10.1371/journal.pbio.3000869). _PLOS Biology_, 18(8), e3000869.
 
   - image_path: /assets/images/paper_assay.png
     excerpt: "Vogels CB, **Brito AF**, Wyllie AL, Fauver JR, Ott IM, Kalinich CC, Petrone ME, Casanovas-Massana A, Muenker MC, Moore AJ, Klein J. et al. [Analytical sensitivity and efficiency comparisons of SARS-CoV-2 RT–qPCR primer–probe sets.](https://www.nature.com/articles/s41564-020-0761-6) _Nature Microbiology_. 2020 Jul 10:1-7."
 
-
-
-
-feature_row2:
-
   - image_path: /assets/images/paper_coast2coast.png
     excerpt: "Fauver JR, Petrone ME, Hodcroft EB, Shioda K, Ehrlich HY, Watts AG, Vogels CB, **Brito AF**, et al. [Coast-to-coast spread of SARS-CoV-2 during the early epidemic in the United States.](https://www.sciencedirect.com/science/article/pii/S0092867420304840) _Cell_. 2020 May 7."
+
+
+
+feature_row3:
 
   - image_path: /assets/images/paper_repertoire.png
     excerpt: "**Brito AF** and Pinney JW. [The evolution of protein domain repertoires: shedding light on the origins of herpesviruses](https://academic.oup.com/ve/article/6/1/veaa001/5726995). _Virus Evolution_ 2020."
 
   - image_path: /assets/images/paper_westnilevirus20.png
     excerpt: "Hadfield J, **Brito AF**, Swetnam DM, Vogels CB, Tokarz RE, Andersen KG, Smith RC, Bedford T, Grubaugh ND. [Twenty years of West Nile virus spread and evolution in the Americas visualized by Nextstrain](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1008042). _PLoS pathogens_. 2019."
-
-
-feature_row3:
 
   - image_path: /assets/images/paper_erelgv2018.png
     excerpt: "**Brito AF**, Melo, FL, Ardisson-Araújo DMP, Sihler W, Souza ML,
