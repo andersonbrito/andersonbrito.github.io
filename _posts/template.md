@@ -6,7 +6,7 @@ date: XXXXX
 
 ---
 
-<a href="https://andersonbrito.github.io/_posts/covid-jn3/"><img src="/assets/images/XXXXX.png" width="700">
+<a href="https://andersonbrito.github.io/_posts/xxxxx/"><img src="/assets/images/XXXXX.png" width="700">
 
 No dia XXXXX participei de um quadro do XXXXX da XXXXX, esclarecendo XXXXX. O vídeo está disponível no site da [XXXXX](XXXXX).
 
