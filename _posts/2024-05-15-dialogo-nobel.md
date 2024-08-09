@@ -5,7 +5,7 @@ permalink: /_posts/dialogo-nobel/
 date: 2024-04-15
 ---
 
-<a href="https://andersonbrito.github.io/_posts/dialogo-nobel/"><img src="/assets/images/cover-template.png" width="700"></a>
+<a href="https://andersonbrito.github.io/_posts/dialogo-nobel/"><img src="/assets/images/cover-nobel.png" width="700"></a>
 
 Em 15 de Abril de 2024 participei como um dos painelistas no evento Diálogo Nobel, realizado na UERJ, Rio de Janeiro. Juntamente com o laureado Nobel de Química (2021), Dr. David MacMillan, bem como Antonio Fidalgo (SESI) e Helena Nader (ABC), discutimos os benefícios da ciência para a sociedade. Foi uma experiência única. Agradeço ao Nobel Prize e a Academia Brasileira de Ciências por esta oportunidade de compartilhar meus pensamentos sobre ciência com estudantes e colegas cientistas.
 
