@@ -93,34 +93,15 @@ author:
   name             : "Anderson F. Brito, PhD"
   avatar           : "/assets/images/anderson2.png"
   bio              : "Virology・Bioinformatics・Epidemiology."
-  location         : 
+  location         : "São Paulo, Brazil"
   email            : "andersonfbrito@gmail.com"
   uri              : "https://scholar.google.co.uk/citations?hl=pt-BR&user=s1qBGCIAAAAJ"
   home             : # null (default), "absolute or relative url to link to author home"
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
   github           : "andersonbrito"
-  gitlab           :
-  google_plus      :
-  keybase          :
   instagram        : "andersonfbrito_"
-  lastfm           :
-  linkedin         : "anderson-brito-544b38154"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    :
-  steam            :
-  tumblr           :
-  twitter          : "andersonfbrito_"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
   orcid            : "0000-0001-5785-7222"
+  linkedin         : "anderson-brito-544b38154"
+  twitter          : "andersonfbrito_"
 
 
 
