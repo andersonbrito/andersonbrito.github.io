@@ -1,5 +1,5 @@
 ---
-title: "Blog"
+title: "News"
 layout: blog
 permalink: /_pages/News/
 header:
